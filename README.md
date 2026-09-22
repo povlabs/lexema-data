@@ -13,17 +13,23 @@ also published under CC BY-SA 4.0; see [LICENSE](LICENSE).
 
 ## Layout and identity
 
-Files are laid out as `it/<first>/<first-two>/<word>.json`. The first two
-components are the first two Unicode code points after lowercasing with Italian
-locale rules; a code point that is not a Unicode letter is `_`, and a missing
-second code point is `_`. Thus every word is placeable: `casa` is under
-`it/c/ca/`, `a` under `it/a/a_/`, and `1x` under `it/_/_x/`. The filename is UTF-8 percent-encoded (including uppercase ASCII letters)
+Files are laid out as
+`it/<first>/<first-two>/<first-three>/<first-four>/<word>.json`. The four
+components are the first one, two, three, and four Unicode code points after
+lowercasing with Italian locale rules; a code point that is not a Unicode letter
+is `_`, and missing code points are `_`. Thus every word is placeable: `casa` is
+under `it/c/ca/cas/casa/`, `a` under `it/a/a_/a__/a___/`, and `1x` under
+`it/_/_x/_x_/_x__/`. The filename is UTF-8 percent-encoded (including uppercase ASCII letters)
 before adding `.json`, so words containing `/` remain safe and case variants do
 not collide on a case-insensitive filesystem. This is the only filename
 encoding; the JSON retains the verbatim source word.
 
-Each file has a `release` object containing the release id and archive SHA-256,
-and an `entries` object. Entries are keyed as `<pos>:<pos_title>`. If the same
+The root `manifest.json` contains the release id, archive SHA-256, and archive
+size. The fixed four-level layout keeps each word's path stable for the life of
+the repository. Adaptive bucket splitting was deliberately rejected: when a new
+word tips a bucket over a cap, every existing path in that bucket moves and a
+re-conversion diff becomes unreadable. Each word file names that release id and
+has an `entries` object. Entries are keyed as `<pos>:<pos_title>`. If the same
 word has more than one source record with the same pair, the records are sorted
 by source line and suffixed `#2`, `#3`, and so on. For example, `sale` has
 `noun:Sostantivo`, `noun:Sostantivo, forma flessa`, and `verb:Voce verbale`;
