@@ -29,18 +29,30 @@ size. The fixed four-level layout keeps each word's path stable for the life of
 the repository. Adaptive bucket splitting was deliberately rejected: when a new
 word tips a bucket over a cap, every existing path in that bucket moves and a
 re-conversion diff becomes unreadable. Each word file names that release id and
-has an `entries` object. Entries are keyed as `<pos>:<pos_title>`. If the same
-word has more than one source record with the same pair, the records are sorted
-by source line and suffixed `#2`, `#3`, and so on. For example, `sale` has
-`noun:Sostantivo`, `noun:Sostantivo, forma flessa`, and `verb:Voce verbale`;
-`bello`'s two `noun:Sostantivo` records are `noun:Sostantivo` and
-`noun:Sostantivo#2`. Consequently every key resolves to exactly one source
-record, while the source's own title remains visible.
+has an `entries` object. Entries are keyed as `<escaped-pos>:<escaped-pos_title>`:
+`%`, `:` and `#` become `%25`, `%3A` and `%23`, so a literal title `X#2` cannot
+collide with a generated `#2` suffix. If the same word has more than one source
+record with the same pair, records are sorted by source-line hash and suffixed
+`#2`, `#3`, and so on. For example, `sale` has `noun:Sostantivo`,
+`noun:Sostantivo, forma flessa`, and `verb:Voce verbale`; `bello`'s two
+`noun:Sostantivo` records are `noun:Sostantivo` and `noun:Sostantivo#2`.
+Consequently every active key resolves to exactly one source record, while the
+source's own title remains visible. A duplicate generated key fails conversion
+rather than overwriting an entry.
+
+When a new release drops a record, conversion removes its key from `entries`.
+When it drops a whole word, conversion deletes that word file unless it has
+Lexema-written fields. Such a file remains with `status: "orphaned"`, its
+editorial values under `orphanedEntries`, and its prior release under
+`orphanedFromReleaseId`; it is visibly not current content. Dropped entries in
+a still-current word are likewise removed and their editorial values retained
+under `orphanedEntries`.
 
 Entries contain only the served source facts: the word, part of speech and
 source title, tags and raw tags, senses (glosses, labels and form-of targets),
-forms and their tags, grammar claims, and provenance for every value. Each provenance object includes the source line
-number and JSON pointer; the entry carries its source line SHA-256, and the file
-carries the release id and archive SHA-256. Editorial fields belong in the
-entry's `lexema` object:
-`italianExplanation`, `englishExplanation`, and `italianExample`.
+forms and their tags, grammar claims, and provenance for every value. Each
+provenance object includes the source line number and JSON pointer; the entry
+carries its source line SHA-256, and the file carries the release id and archive
+SHA-256. Editorial fields belong in the entry's `lexema` object:
+`italianExplanation`, `englishExplanation`, and `italianExample`. Conversion
+preserves editorial values, but may normalize JSON whitespace and key order.
