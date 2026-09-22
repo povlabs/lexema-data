@@ -17,8 +17,10 @@ Files are laid out as
 `it/<first>/<first-two>/<first-three>/<first-four>/<word>.json`. The four
 components are the first one, two, three, and four Unicode code points after
 lowercasing with Italian locale rules; a code point that is not a Unicode letter
-is `_`, and missing code points are `_`. Thus every word is placeable: `casa` is
-under `it/c/ca/cas/casa/`, `a` under `it/a/a_/a__/a___/`, and `1x` under
+is `_`, and missing code points are `_`. Letters whose Unicode case-folding could
+alias another code point on a case-insensitive filesystem are percent-encoded in
+the directory components. Thus every word is placeable: `casa` is under
+`it/c/ca/cas/casa/`, `a` under `it/a/a_/a__/a___/`, and `1x` under
 `it/_/_x/_x_/_x__/`. The filename is UTF-8 percent-encoded (including uppercase ASCII letters)
 before adding `.json`, so words containing `/` remain safe and case variants do
 not collide on a case-insensitive filesystem. This is the only filename
