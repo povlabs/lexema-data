@@ -1,0 +1,40 @@
+# Lexema content data
+
+This repository is the editable content source for Lexema releases. The
+converter reads a completed Lexema SQLite release and writes one JSON file per
+Italian word; the application seeds from these files and not from the upstream
+archive.
+
+The source text is Italian Wiktionary data distributed by [Kaikki](https://kaikki.org/dictionary/Italian/), under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Lexema restructures that source and may add an Italian explanation, an English
+explanation, and an Italian example. Those Lexema-written fields are separate
+from source-derived fields and are never overwritten by conversion. They are
+also published under CC BY-SA 4.0; see [LICENSE](LICENSE).
+
+## Layout and identity
+
+Files are laid out as `it/<first>/<first-two>/<word>.json`. The first two
+components are the first two Unicode code points after lowercasing with Italian
+locale rules; a code point that is not a Unicode letter is `_`, and a missing
+second code point is `_`. Thus every word is placeable: `casa` is under
+`it/c/ca/`, `a` under `it/a/a_/`, and `1x` under `it/_/_x/`. The filename is UTF-8 percent-encoded (including uppercase ASCII letters)
+before adding `.json`, so words containing `/` remain safe and case variants do
+not collide on a case-insensitive filesystem. This is the only filename
+encoding; the JSON retains the verbatim source word.
+
+Each file has a `release` object containing the release id and archive SHA-256,
+and an `entries` object. Entries are keyed as `<pos>:<pos_title>`. If the same
+word has more than one source record with the same pair, the records are sorted
+by source line and suffixed `#2`, `#3`, and so on. For example, `sale` has
+`noun:Sostantivo`, `noun:Sostantivo, forma flessa`, and `verb:Voce verbale`;
+`bello`'s two `noun:Sostantivo` records are `noun:Sostantivo` and
+`noun:Sostantivo#2`. Consequently every key resolves to exactly one source
+record, while the source's own title remains visible.
+
+Entries contain only the served source facts: the word, part of speech and
+source title, tags and raw tags, senses (glosses, labels and form-of targets),
+forms and their tags, grammar claims, and provenance for every value. Each provenance object includes the source line
+number and JSON pointer; the entry carries its source line SHA-256, and the file
+carries the release id and archive SHA-256. Editorial fields belong in the
+entry's `lexema` object:
+`italianExplanation`, `englishExplanation`, and `italianExample`.
