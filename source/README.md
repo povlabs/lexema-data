@@ -47,3 +47,14 @@ not replaced by later dumps.
 
 This is upstream data under CC BY-SA 4.0,
 unmodified.
+
+## Feed release it-78385b62 (September 2026)
+
+Since hueypov/lexema ADR 0025, newer kaikki releases are applied to the dictionary as diffs through the CI dictionary deploy, which reads its files from this folder (`src/deploy/dataFiles.ts`). These two files are the first such feed release:
+
+| File | Checksum | Size |
+|---|---|---|
+| `it-78385b62.jsonl.gz` | SHA-256 `78385b6229d1…` (full value in `ARCHIVE_FACTS`) | 43,612,281 bytes |
+| `itwiktionary-20260901-pages-articles.xml.bz2` | SHA-1 `c72d2411b1de…` (full value in `KNOWN_DUMPS`) | 71,291,038 bytes |
+
+The archive was retrieved from kaikki.org on 2026-09-28. The dump was downloaded from dumps.wikimedia.org. Both are upstream data under CC BY-SA 4.0, unmodified. The July files above stay unchanged.
