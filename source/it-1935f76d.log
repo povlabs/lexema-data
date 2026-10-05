@@ -1,0 +1,1670 @@
+MINOR it WIKTWORDS STARTED: Thu Oct  1 10:25:07 PM EEST 2026
+2026-10-01 22:25:07,728 INFO: Capturing words for all available languages
+2026-10-01 22:25:07,735 INFO: First phase - extracting templates, macros, and pages
+2026-10-01 22:25:07,736 INFO: skip_extract_dump: False, save_pages_path: None
+2026-10-01 22:25:07,736 INFO: dump file path: /home/ubuntu/temp-wiktionary/editions/it/data/itwiktionary-20261001-pages-articles.xml.bz2
+2026-10-01 22:25:08,640 INFO:   ... 10000 raw pages collected
+2026-10-01 22:25:09,180 INFO:   ... 20000 raw pages collected
+2026-10-01 22:25:09,689 INFO:   ... 30000 raw pages collected
+2026-10-01 22:25:10,361 INFO:   ... 40000 raw pages collected
+2026-10-01 22:25:11,225 INFO:   ... 50000 raw pages collected
+2026-10-01 22:25:11,989 INFO:   ... 60000 raw pages collected
+2026-10-01 22:25:12,743 INFO:   ... 70000 raw pages collected
+2026-10-01 22:25:13,430 INFO:   ... 80000 raw pages collected
+2026-10-01 22:25:14,125 INFO:   ... 90000 raw pages collected
+2026-10-01 22:25:14,777 INFO:   ... 100000 raw pages collected
+2026-10-01 22:25:15,697 INFO:   ... 110000 raw pages collected
+2026-10-01 22:25:16,536 INFO:   ... 120000 raw pages collected
+2026-10-01 22:25:17,673 INFO:   ... 130000 raw pages collected
+2026-10-01 22:25:18,225 INFO:   ... 140000 raw pages collected
+2026-10-01 22:25:18,844 INFO:   ... 150000 raw pages collected
+2026-10-01 22:25:19,385 INFO:   ... 160000 raw pages collected
+2026-10-01 22:25:19,974 INFO:   ... 170000 raw pages collected
+2026-10-01 22:25:20,595 INFO:   ... 180000 raw pages collected
+2026-10-01 22:25:21,205 INFO:   ... 190000 raw pages collected
+2026-10-01 22:25:21,820 INFO:   ... 200000 raw pages collected
+2026-10-01 22:25:22,387 INFO:   ... 210000 raw pages collected
+2026-10-01 22:25:22,952 INFO:   ... 220000 raw pages collected
+2026-10-01 22:25:23,622 INFO:   ... 230000 raw pages collected
+2026-10-01 22:25:24,259 INFO:   ... 240000 raw pages collected
+2026-10-01 22:25:24,861 INFO:   ... 250000 raw pages collected
+2026-10-01 22:25:25,502 INFO:   ... 260000 raw pages collected
+2026-10-01 22:25:26,128 INFO:   ... 270000 raw pages collected
+2026-10-01 22:25:26,761 INFO:   ... 280000 raw pages collected
+2026-10-01 22:25:27,381 INFO:   ... 290000 raw pages collected
+2026-10-01 22:25:28,013 INFO:   ... 300000 raw pages collected
+2026-10-01 22:25:28,633 INFO:   ... 310000 raw pages collected
+2026-10-01 22:25:29,253 INFO:   ... 320000 raw pages collected
+2026-10-01 22:25:29,883 INFO:   ... 330000 raw pages collected
+2026-10-01 22:25:30,521 INFO:   ... 340000 raw pages collected
+2026-10-01 22:25:31,162 INFO:   ... 350000 raw pages collected
+2026-10-01 22:25:31,797 INFO:   ... 360000 raw pages collected
+2026-10-01 22:25:32,437 INFO:   ... 370000 raw pages collected
+2026-10-01 22:25:33,064 INFO:   ... 380000 raw pages collected
+2026-10-01 22:25:33,695 INFO:   ... 390000 raw pages collected
+2026-10-01 22:25:34,449 INFO:   ... 400000 raw pages collected
+2026-10-01 22:25:35,354 INFO:   ... 410000 raw pages collected
+2026-10-01 22:25:36,023 INFO:   ... 420000 raw pages collected
+2026-10-01 22:25:36,695 INFO:   ... 430000 raw pages collected
+2026-10-01 22:25:37,539 INFO:   ... 440000 raw pages collected
+2026-10-01 22:25:38,452 INFO:   ... 450000 raw pages collected
+2026-10-01 22:25:39,136 INFO:   ... 460000 raw pages collected
+2026-10-01 22:25:39,800 INFO:   ... 470000 raw pages collected
+2026-10-01 22:25:40,439 INFO:   ... 480000 raw pages collected
+2026-10-01 22:25:41,098 INFO:   ... 490000 raw pages collected
+2026-10-01 22:25:41,762 INFO:   ... 500000 raw pages collected
+2026-10-01 22:25:42,416 INFO:   ... 510000 raw pages collected
+2026-10-01 22:25:43,080 INFO:   ... 520000 raw pages collected
+2026-10-01 22:25:43,836 INFO:   ... 530000 raw pages collected
+2026-10-01 22:25:44,592 INFO:   ... 540000 raw pages collected
+2026-10-01 22:25:45,317 INFO:   ... 550000 raw pages collected
+2026-10-01 22:25:46,033 INFO:   ... 560000 raw pages collected
+2026-10-01 22:25:46,747 INFO:   ... 570000 raw pages collected
+2026-10-01 22:25:47,489 INFO:   ... 580000 raw pages collected
+2026-10-01 22:25:48,240 INFO:   ... 590000 raw pages collected
+2026-10-01 22:25:49,036 INFO:   ... 600000 raw pages collected
+2026-10-01 22:25:49,739 INFO:   ... 610000 raw pages collected
+2026-10-01 22:25:50,322 INFO:   ... 620000 raw pages collected
+2026-10-01 22:25:50,954 INFO:   ... 630000 raw pages collected
+2026-10-01 22:25:51,608 INFO:   ... 640000 raw pages collected
+2026-10-01 22:25:52,353 INFO:   ... 650000 raw pages collected
+2026-10-01 22:25:53,061 INFO:   ... 660000 raw pages collected
+2026-10-01 22:25:53,700 INFO:   ... 670000 raw pages collected
+2026-10-01 22:25:54,341 INFO:   ... 680000 raw pages collected
+2026-10-01 22:25:54,979 INFO:   ... 690000 raw pages collected
+2026-10-01 22:25:55,634 INFO:   ... 700000 raw pages collected
+2026-10-01 22:25:56,305 INFO:   ... 710000 raw pages collected
+2026-10-01 22:25:56,969 INFO:   ... 720000 raw pages collected
+2026-10-01 22:25:57,629 INFO:   ... 730000 raw pages collected
+2026-10-01 22:25:58,295 INFO:   ... 740000 raw pages collected
+2026-10-01 22:25:58,989 INFO:   ... 750000 raw pages collected
+2026-10-01 22:25:59,644 INFO:   ... 760000 raw pages collected
+2026-10-01 22:26:00,334 INFO:   ... 770000 raw pages collected
+2026-10-01 22:26:01,012 INFO:   ... 780000 raw pages collected
+2026-10-01 22:26:03,565 INFO: Analyzing which templates should be expanded before parsing
+2026-10-01 22:26:04,083 INFO: Second phase - processing pages
+aglio: DEBUG: no corresponding start tag found for </center> at ['aglio'] parsing aglio/???/??????
+dawn/Inglese/Sostantivo: DEBUG: Unknown section: Esempio at ['dawn']
+ciammiéllo/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['ciammiéllo']
+ésca/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['ésca']
+andarsene/Italiano/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['andarsene']
+birbia/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['birbia']
+in: DEBUG: ITALIC not properly closed on the same line at ['in'] parsing in/???/?????? / ???
+Gelboliv: DEBUG: BOLD not properly closed on the same line at ['Gelboliv'] parsing Gelboliv/???/?????? / ???
+ommacaro/Napoletano: DEBUG: Unknown section: Esclamazione at ['ommacaro']
+depend: DEBUG: ITALIC not properly closed on the same line at ['depend'] parsing depend/???/?????? / ???
+frigid/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['frigid']
+jug/Croato/Termini correlati: DEBUG: Unknown section: Declinazione at ['jug']
+vulésse Ddìo/Napoletano: DEBUG: Unknown section: Esclamazione at ['vulésse Ddìo']
+fóss 'o ciélo/Napoletano: DEBUG: Unknown section: Esclamazione at ["fóss 'o ciélo"]
+Chiaja/Napoletano/Nome proprio: DEBUG: Unknown section: Fraseologia at ['Chiaja']
+vigile del fuoco: DEBUG: ITALIC not properly closed on the same line at ['vigile del fuoco'] parsing vigile del fuoco/???/?????? / ???
+abdomen/Latino/Sostantivo: DEBUG: Unknown section: Declinazione at ['abdomen']
+y: DEBUG: HTML tag <p> not properly closed at ['y'] parsing y/???/?????? / ???
+started on line 41, detected on line 83
+reebruin: DEBUG: ITALIC not properly closed on the same line at ['reebruin'] parsing reebruin/???/?????? / ???
+copy: DEBUG: ITALIC not properly closed on the same line at ['copy'] parsing copy/???/?????? / ???
+come to mind: DEBUG: ITALIC not properly closed on the same line at ['come to mind'] parsing come to mind/???/?????? / ???
+charitable: DEBUG: ITALIC not properly closed on the same line at ['charitable'] parsing charitable/???/?????? / ???
+charitable: DEBUG: ITALIC not properly closed on the same line at ['charitable'] parsing charitable/???/?????? / ???
+misantropia: DEBUG: ITALIC not properly closed on the same line at ['misantropia'] parsing misantropia/???/?????? / ???
+bleich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bleich']
+berechtigt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['berechtigt']
+tiramòle/Napoletano/Sostantivo: DEBUG: Unknown section: Varaizione at ['tiramòle']
+bewegungslos/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bewegungslos']
+barbarisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['barbarisch']
+un/Italiano/Termini correlati: DEBUG: Unknown section: Declinazione at ['un']
+appilà 'a vócca/Napoletano: DEBUG: Unknown section: Frase verbale at ["appilà 'a vócca"]
+bedrohlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bedrohlich']
+abbilden/Tedesco/Termini correlati: DEBUG: Unknown section: Coniugazione at ['abbilden']
+britisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['britisch']
+rainfall: DEBUG: ITALIC not properly closed on the same line at ['rainfall'] parsing rainfall/???/?????? / ???
+Bauchdecke: DEBUG: ITALIC not properly closed on the same line at ['Bauchdecke'] parsing Bauchdecke/???/?????? / ???
+cancaro/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['cancaro']
+abgenutzt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abgenutzt']
+Balgerei: DEBUG: ITALIC not properly closed on the same line at ['Balgerei'] parsing Balgerei/???/?????? / ???
+biologisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['biologisch']
+un/Veneto/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['un']
+Blutentnahme: DEBUG: ITALIC not properly closed on the same line at ['Blutentnahme'] parsing Blutentnahme/???/?????? / ???
+na/Veneto/Termini correlati: DEBUG: Unknown section: Declinazione at ['na']
+beachtlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['beachtlich']
+Beester/Basso sassone/Sostantivo: DEBUG: Unknown section: Esempio at ['Beester']
+emancipator: DEBUG: ITALIC not properly closed on the same line at ['emancipator'] parsing emancipator/???/?????? / ???
+malefactor: DEBUG: ITALIC not properly closed on the same line at ['malefactor'] parsing malefactor/???/?????? / ???
+brach/Tedesco/Parole derivate: DEBUG: Unknown section: Declinazione at ['brach']
+Bewerbung: DEBUG: ITALIC not properly closed on the same line at ['Bewerbung'] parsing Bewerbung/???/?????? / ???
+bereichert/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bereichert']
+nickel: DEBUG: HTML tag <div> not properly closed at ['nickel'] parsing nickel/???/??? ???
+started on line 68, detected on line 81
+dulóre/Napoletano/Varianti: DEBUG: Unknown section: Fraseologia at ['dulóre']
+butu/Creolo giamaicano/Sostantivo: DEBUG: Unknown section: Esempio at ['butu']
+Blutfleck: DEBUG: ITALIC not properly closed on the same line at ['Blutfleck'] parsing Blutfleck/???/?????? / ???
+strùnzo/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['strùnzo']
+arancinu/Siciliano/Sostantivo: DEBUG: Unknown section: Vedi anche at ['arancinu']
+scella: DEBUG: ITALIC not properly closed on the same line at ['scella'] parsing scella/???/??????
+scella/:Template:-scel-/Sostantivo: DEBUG: Unknown section: Disposizione e rapportimodifica at ['scella']
+scella/:Template:-scel-/Sostantivo: DEBUG: Unknown section: Confinimodifica at ['scella']
+Blutgruppe: DEBUG: ITALIC not properly closed on the same line at ['Blutgruppe'] parsing Blutgruppe/???/?????? / ???
+beeindruckend/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['beeindruckend']
+bewirken/Tedesco/Pronuncia: DEBUG: Unknown section: Coniugazione at ['bewirken']
+tené mente/Napoletano: DEBUG: Unknown section: Frase verbale at ['tené mente']
+bargeldlos/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bargeldlos']
+plateau: DEBUG: ITALIC not properly closed on the same line at ['plateau'] parsing plateau/???/?????? / ???
+blinken/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['blinken']
+butterweich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['butterweich']
+Blutlache: DEBUG: ITALIC not properly closed on the same line at ['Blutlache'] parsing Blutlache/???/?????? / ???
+beeinflussen/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['beeinflussen']
+abfallen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abfallen']
+bischöflich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bischöflich']
+Bigamist: DEBUG: ITALIC not properly closed on the same line at ['Bigamist'] parsing Bigamist/???/?????? / ???
+bearbeitbar/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bearbeitbar']
+betrunken/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['betrunken']
+blu genziana: DEBUG: ITALIC not properly closed on the same line at ['blu genziana'] parsing blu genziana/???/?????? / ???
+pastelblauw: DEBUG: ITALIC not properly closed on the same line at ['pastelblauw'] parsing pastelblauw/???/?????? / ???
+begraben/Tedesco/Termini correlati: DEBUG: Unknown section: Coniugazione at ['begraben']
+beliebig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['beliebig']
+brandig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['brandig']
+bearbeiten/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['bearbeiten']
+Blutplasma: DEBUG: ITALIC not properly closed on the same line at ['Blutplasma'] parsing Blutplasma/???/?????? / ???
+conjugation: DEBUG: ITALIC not properly closed on the same line at ['conjugation'] parsing conjugation/???/?????? / ???
+brennen/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['brennen']
+beerdigen/Tedesco/Termini correlati: DEBUG: Unknown section: Coniugazione at ['beerdigen']
+beerdigt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['beerdigt']
+barmherzig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['barmherzig']
+Blutrausch: DEBUG: ITALIC not properly closed on the same line at ['Blutrausch'] parsing Blutrausch/???/?????? / ???
+passà appriésso/Napoletano: DEBUG: Unknown section: Frase verbale at ['passà appriésso']
+beliebt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['beliebt']
+perzóna/Napoletano/Sillabazione: DEBUG: Unknown section: Verzioni at ['perzóna']
+abgezehrt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abgezehrt']
+Blutsauger: DEBUG: ITALIC not properly closed on the same line at ['Blutsauger'] parsing Blutsauger/???/?????? / ???
+téla/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['téla']
+aggettivo/Italiano/Sinonimi: DEBUG: Unknown section: Polirematiche at ['aggettivo']
+malleable: DEBUG: ITALIC not properly closed on the same line at ['malleable'] parsing malleable/???/?????? / ???
+bitterlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bitterlich']
+abgeschabt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abgeschabt']
+abgekocht/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abgekocht']
+brown/Inglese/Pronuncia: WARNING: key='en_url' not defined in Sound at ['brown']
+most/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['most']
+most/Serbo/Sostantivo: DEBUG: Unknown section: In alfabeto cirillico at ['most']
+blutstillend/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['blutstillend']
+balsamisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['balsamisch']
+abklopfen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abklopfen']
+Rruma/Siciliano/Nome proprio: DEBUG: Unknown section: Vedi anche at ['Rruma']
+Besenstiel: DEBUG: ITALIC not properly closed on the same line at ['Besenstiel'] parsing Besenstiel/???/?????? / ???
+abfeuern/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['abfeuern']
+abnormal/Tedesco/Contrari: DEBUG: Unknown section: Declinazione at ['abnormal']
+abgekoppelt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abgekoppelt']
+abgeschieden/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abgeschieden']
+arbor/Latino/Sostantivo: DEBUG: Unknown section: derivati in lingue neolatine at ['arbor']
+hel/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['hel']
+debole: DEBUG: ITALIC not properly closed on the same line at ['debole'] parsing debole/???/?????? / ???
+blondschimmernd/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['blondschimmernd']
+abstrakt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abstrakt']
+soggetto di diritto: DEBUG: ITALIC not properly closed on the same line at ['soggetto di diritto'] parsing soggetto di diritto/???/?????? / ???
+editor: DEBUG: ITALIC not properly closed on the same line at ['editor'] parsing editor/???/?????? / ???
+abkochen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abkochen']
+Blutuntersuchung: DEBUG: ITALIC not properly closed on the same line at ['Blutuntersuchung'] parsing Blutuntersuchung/???/?????? / ???
+prèna/Napoletano/Aggettivo: DEBUG: Unknown section: Sinonimo at ['prèna']
+belastet/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['belastet']
+absetzbar/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['absetzbar']
+gràveta/Napoletano/Aggettivo: DEBUG: Unknown section: Sinonimo at ['gràveta']
+abgrundtief/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abgrundtief']
+abfliegen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abfliegen']
+brutal/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['brutal']
+rattàrse 'a panza/Napoletano: DEBUG: Unknown section: Frase verbale at ["rattàrse 'a panza"]
+Barschaft: DEBUG: ITALIC not properly closed on the same line at ['Barschaft'] parsing Barschaft/???/?????? / ???
+grattàrse 'a panza/Napoletano: DEBUG: Unknown section: Frase verbale at ["grattàrse 'a panza"]
+correspond: DEBUG: ITALIC not properly closed on the same line at ['correspond'] parsing correspond/???/?????? / ???
+Bademantel: DEBUG: ITALIC not properly closed on the same line at ['Bademantel'] parsing Bademantel/???/?????? / ???
+abnehmbar/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abnehmbar']
+abdichten/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abdichten']
+bedauerlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bedauerlich']
+neverzale/Napoletano/Aggettivo: DEBUG: Unknown section: Sinonimo at ['neverzale']
+abkratzbar/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abkratzbar']
+dà a mmagnà/Napoletano: DEBUG: Unknown section: Frase verbale at ['dà a mmagnà']
+stà a pappalardiéllo/Napoletano: DEBUG: Unknown section: Frase verbale at ['stà a pappalardiéllo']
+bewaldet/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bewaldet']
+lues: DEBUG: ITALIC not properly closed on the same line at ['lues'] parsing lues/???/?????? / ???
+biblisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['biblisch']
+abladen/Tedesco/Contrari: DEBUG: Unknown section: Coniugazione at ['abladen']
+abheben/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['abheben']
+astronumia/Siciliano/Sostantivo: DEBUG: Unknown section: Vedi anche at ['astronumia']
+Blutader: DEBUG: ITALIC not properly closed on the same line at ['Blutader'] parsing Blutader/???/?????? / ???
+bockbeinig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bockbeinig']
+abdrosseln/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abdrosseln']
+percorso: DEBUG: ITALIC not properly closed on the same line at ['percorso'] parsing percorso/???/?????? / ???
+bequem/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bequem']
+abnutzungsfrei/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abnutzungsfrei']
+bunt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bunt']
+abdunkeln/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abdunkeln']
+abhobeln/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abhobeln']
+ghost: DEBUG: ITALIC not properly closed on the same line at ['ghost'] parsing ghost/???/?????? / ???
+neodym/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['neodym']
+dà annummenata/Napoletano: DEBUG: Unknown section: Frase verbale at ['dà annummenata']
+sparàgno/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['sparàgno']
+bedeutungslos/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bedeutungslos']
+consolation: DEBUG: ITALIC not properly closed on the same line at ['consolation'] parsing consolation/???/?????? / ???
+absondern/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['absondern']
+arm/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['arm']
+anhängen/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['anhängen']
+fà ària/Napoletano: DEBUG: Unknown section: Frase verbale at ['fà ària']
+abscheulich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abscheulich']
+Affekt: DEBUG: ITALIC not properly closed on the same line at ['Affekt'] parsing Affekt/???/?????? / ???
+nobel/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['nobel']
+abholzen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abholzen']
+altertümlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['altertümlich']
+ołów/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['ołów']
+abhorchen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abhorchen']
+nimh: DEBUG: ITALIC not properly closed on the same line at ['nimh'] parsing nimh/???/?????? / ???
+baggern/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['baggern']
+amtlich: DEBUG: ITALIC not properly closed on the same line at ['amtlich'] parsing amtlich/???/?????? / ???
+amtlich/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['amtlich']
+äffen/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['äffen']
+akkurat/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['akkurat']
+affenartig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['affenartig']
+anhänglich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['anhänglich']
+jì 'e cuórpo/Napoletano: DEBUG: Unknown section: Frase verbale at ["jì 'e cuórpo"]
+радон/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['радон']
+pallad/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['pallad']
+abtropfen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abtropfen']
+рениум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['рениум']
+the/Inglese/Articolo: DEBUG: Unknown section: Esempio at ['the']
+basisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['basisch']
+platyna/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['platyna']
+ändern/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['ändern']
+alltäglich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['alltäglich']
+Apparoot/Basso sassone/Sostantivo: DEBUG: Unknown section: Esempio at ['Apparoot']
+родиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['родиум']
+couchette: DEBUG: ITALIC not properly closed on the same line at ['couchette'] parsing couchette/???/?????? / ???
+pluton/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['pluton']
+abendlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abendlich']
+polon/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['polon']
+potas/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['potas']
+рубидиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['рубидиум']
+Allwissenheit: DEBUG: ITALIC not properly closed on the same line at ['Allwissenheit'] parsing Allwissenheit/???/?????? / ???
+shrimp/Inglese/Verbo: DEBUG: Unknown section: Coniugazione at ['shrimp']
+Abrechnung: DEBUG: ITALIC not properly closed on the same line at ['Abrechnung'] parsing Abrechnung/???/?????? / ???
+рутениум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['рутениум']
+prazeodym/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['prazeodym']
+altklug/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['altklug']
+самариум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['самариум']
+promet/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['promet']
+bean/Irlandese/Iperonimi: DEBUG: Unknown section: Declinazione at ['bean']
+abwaschbar/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abwaschbar']
+Bookstoben/Basso sassone/Proverbi e modi di dire: DEBUG: Unknown section: Esempio at ['Bookstoben']
+protaktyn/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['protaktyn']
+селен/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['селен']
+akrobatisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['akrobatisch']
+verzar/Veneto/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['verzar']
+angeben/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['angeben']
+denùcchio/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['denùcchio']
+rtęć/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['rtęć']
+сиборгиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['сиборгиум']
+rubid/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['rubid']
+силициум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['силициум']
+abrichtbar/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abrichtbar']
+basteln/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['basteln']
+ruten/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['ruten']
+andeuten/Tedesco/Sinonimi: DEBUG: Unknown section: Coniugazione at ['andeuten']
+скандиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['скандиум']
+lingua/Giudeo-spagnolo/Parole derivate: DEBUG: Unknown section: Ortografia alternativa at ['lingua']
+ógna/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['ógna']
+стронциум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['стронциум']
+abwechslungsreich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['abwechslungsreich']
+rutherford/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['rutherford']
+abschmecken/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abschmecken']
+сулфур/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['сулфур']
+culus: DEBUG: ITALIC not properly closed on the same line at ['culus'] parsing culus/???/?????? / ???
+samar/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['samar']
+технициум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['технициум']
+constipation: DEBUG: ITALIC not properly closed on the same line at ['constipation'] parsing constipation/???/?????? / ???
+титан/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['титан']
+Bastler: DEBUG: ITALIC not properly closed on the same line at ['Bastler'] parsing Bastler/???/?????? / ???
+seaborg/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['seaborg']
+angedockt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['angedockt']
+ториум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['ториум']
+amüsant/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['amüsant']
+тулиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['тулиум']
+aneinanderliegend/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['aneinanderliegend']
+abrunden/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['abrunden']
+achtfach/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['achtfach']
+уран/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['уран']
+politeness: DEBUG: ITALIC not properly closed on the same line at ['politeness'] parsing politeness/???/?????? / ???
+siarka/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['siarka']
+chronology: DEBUG: ITALIC not properly closed on the same line at ['chronology'] parsing chronology/???/?????? / ???
+coccige: DEBUG: BOLD not properly closed on the same line at ['coccige'] parsing coccige/???/??? ???
+afrikanisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['afrikanisch']
+фермиу/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['фермиу']
+anal/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['anal']
+флуор/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['флуор']
+фосфор/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['фосфор']
+abschrecken/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['abschrecken']
+anerkennen/Tedesco/Pronuncia: DEBUG: Unknown section: Declinazione at ['anerkennen']
+analog/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['analog']
+baden/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['baden']
+франциум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['франциум']
+puff/Inglese/Verbo: DEBUG: Unknown section: Parole correlate at ['puff']
+bringen/Tedesco/Sinonimi: DEBUG: Unknown section: Declinazione at ['bringen']
+хасиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['хасиум']
+dùdece/Napoletano: DEBUG: Unknown section: Numerale at ['dùdece']
+Pentecoste: DEBUG: BOLD not properly closed on the same line at ['Pentecoste'] parsing Pentecoste/???/?????? / ???
+dùrece/Napoletano: DEBUG: Unknown section: Numerale at ['dùrece']
+хафниум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['хафниум']
+trìdece/Napoletano: DEBUG: Unknown section: Numerale at ['trìdece']
+хелиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['хелиум']
+serbatoio: DEBUG: ITALIC not properly closed on the same line at ['serbatoio'] parsing serbatoio/???/?????? / ???
+холмиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['холмиум']
+cartedda: DEBUG: ITALIC not properly closed on the same line at ['cartedda'] parsing cartedda/???/??????
+aggressiv/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['aggressiv']
+technet/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['technet']
+хром/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['хром']
+tellur/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['tellur']
+horen/Olandese/Pronuncia: DEBUG: Unknown section: Coniugazione at ['horen']
+terb/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['terb']
+agieren/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['agieren']
+aatilli/Alabama/Sostantivo: DEBUG: Unknown section: Vedi anche at ['aatilli']
+tlen/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['tlen']
+цезиум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['цезиум']
+analysiert/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['analysiert']
+aatilliha/Alabama/Sostantivo: DEBUG: Unknown section: Vedi anche at ['aatilliha']
+tor/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['tor']
+alt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['alt']
+цериум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['цериум']
+tul/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['tul']
+tytan/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['tytan']
+цинк/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['цинк']
+roh/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['roh']
+uran/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['uran']
+cesta: DEBUG: ITALIC not properly closed on the same line at ['cesta'] parsing cesta/???/?????? / ???
+angelsächsisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['angelsächsisch']
+consume: DEBUG: ITALIC not properly closed on the same line at ['consume'] parsing consume/???/?????? / ???
+wanad/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['wanad']
+Ascanio: DEBUG: ITALIC not properly closed on the same line at ['Ascanio'] parsing Ascanio/???/?????? / ???
+циркониум/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['циркониум']
+wapń/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['wapń']
+anämisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['anämisch']
+węgiel/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['węgiel']
+altbekannt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['altbekannt']
+angemessen/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['angemessen']
+cràpa/Napoletano/Sostantivo: DEBUG: Unknown section: Esempio at ['cràpa']
+Fleischmesser: DEBUG: ITALIC not properly closed on the same line at ['Fleischmesser'] parsing Fleischmesser/???/?????? / ???
+wodór/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['wodór']
+altdeutsch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['altdeutsch']
+aktiviert/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['aktiviert']
+angenehm/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['angenehm']
+aktyn/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['aktyn']
+germoglio: DEBUG: ITALIC not properly closed on the same line at ['germoglio'] parsing germoglio/???/?????? / ???
+liczba atomowa/Polacco/Locuzione nominale: DEBUG: Unknown section: Esempio at ['liczba atomowa']
+złoto/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['złoto']
+adelig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['adelig']
+carota: DEBUG: ITALIC not properly closed on the same line at ['carota'] parsing carota/???/?????? / ???
+amerikansk/Svedese/Aggettivo: DEBUG: Unknown section: Declinazione at ['amerikansk']
+chemiczny/Polacco/Aggettivo: DEBUG: Unknown section: Esempio at ['chemiczny']
+żelazo/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['żelazo']
+angespannt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['angespannt']
+amerikanisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['amerikanisch']
+pierwiastek/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['pierwiastek']
+układ okresowy/Polacco/Locuzione nominale: DEBUG: Unknown section: Esempio at ['układ okresowy']
+anatomisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['anatomisch']
+ameryk/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['ameryk']
+vèvere/Napoletano/Verbo: DEBUG: Unknown section: Altre varianti tra i dialetti napoletani at ['vèvere']
+хемиски/Macedone/Aggettivo: DEBUG: Unknown section: Esempio at ['хемиски']
+etilato/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['etilato']
+etilato/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['etilato']
+gelb/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['gelb']
+carè/Napoletano/Sinonimi: DEBUG: Unknown section: Coniugazione at ['carè']
+vévere/Napoletano/Verbo: DEBUG: Unknown section: Altre varianti tra i dialetti napoletani at ['vévere']
+pronome/Italiano/Parole derivate: DEBUG: Unknown section: Polirematiche at ['pronome']
+симбол/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['симбол']
+geler: DEBUG: ITALIC not properly closed on the same line at ['geler'] parsing geler/???/?????? / ???
+akut/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['akut']
+Aminosäure: DEBUG: ITALIC not properly closed on the same line at ['Aminosäure'] parsing Aminosäure/???/?????? / ???
+alfabeto: DEBUG: ITALIC not properly closed on the same line at ['alfabeto'] parsing alfabeto/???/?????? / ???
+Iole: DEBUG: ITALIC not properly closed on the same line at ['Iole'] parsing Iole/???/?????? / ???
+penetrate: DEBUG: ITALIC not properly closed on the same line at ['penetrate'] parsing penetrate/???/?????? / ???
+anbetungswürdig/Tedesco/Parole derivate: DEBUG: Unknown section: Declinazione at ['anbetungswürdig']
+counselor: DEBUG: ITALIC not properly closed on the same line at ['counselor'] parsing counselor/???/?????? / ???
+hus: DEBUG: ITALIC not properly closed on the same line at ['hus'] parsing hus/???/?????? / ???
+hus: DEBUG: ITALIC not properly closed on the same line at ['hus'] parsing hus/???/?????? / ???
+cicere/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['cicere']
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Participi
+started on line 11, detected on line 13
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Participi
+started on line 16, detected on line 17
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Participi
+started on line 20, detected on line 21
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Participi
+started on line 19, detected on line 21
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Infiniti
+started on line 31, detected on line 32
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Infiniti
+started on line 30, detected on line 32
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Infiniti
+started on line 35, detected on line 36
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Infiniti
+started on line 34, detected on line 36
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Infiniti
+started on line 39, detected on line 40
+contendere/Latino/Verbo: DEBUG: HTML tag <big> not properly closed at ['contendere'] parsing contendere/Infiniti
+started on line 38, detected on line 40
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 47, detected on line 48
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 46, detected on line 48
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 45, detected on line 48
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 55, detected on line 56
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 54, detected on line 56
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 53, detected on line 56
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 52, detected on line 56
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 51, detected on line 56
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 50, detected on line 56
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 49, detected on line 56
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 59, detected on line 66
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 58, detected on line 66
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 57, detected on line 66
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 67, detected on line 74
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 75, detected on line 82
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 83, detected on line 90
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 91, detected on line 98
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 99, detected on line 106
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 108, detected on line 115
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 107, detected on line 115
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 116, detected on line 123
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 124, detected on line 131
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 132, detected on line 139
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 140, detected on line 147
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 148, detected on line 155
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 158, detected on line 165
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 157, detected on line 165
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 156, detected on line 165
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 166, detected on line 173
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 174, detected on line 181
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 182, detected on line 189
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 191, detected on line 198
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 190, detected on line 198
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 199, detected on line 206
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 207, detected on line 214
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 215, detected on line 222
+contendere/Latino/Verbo: DEBUG: HTML tag <small> not properly closed at ['contendere'] parsing contendere/Flessione
+started on line 223, detected on line 230
+fischen/Tedesco/Pronuncia: DEBUG: Unknown section: Coniugazione at ['fischen']
+lengua/Giudeo-spagnolo/Parole derivate: DEBUG: Unknown section: Ortografia alternativa at ['lengua']
+computer: DEBUG: ITALIC not properly closed on the same line at ['computer'] parsing computer/???/?????? / ???
+allesfressend/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['allesfressend']
+agonise/Inglese/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['agonise']
+گفتن: DEBUG: HTML tag <div> not properly closed at ['گفتن'] parsing گفتن/???/?????? / ???
+started on line 189, detected on line 332
+گفتن: DEBUG: HTML tag <div> not properly closed at ['گفتن'] parsing گفتن/???/?????? / ???
+started on line 29, detected on line 332
+lieggio/Napoletano/Aggettivo: DEBUG: Unknown section: Fraesologia at ['lieggio']
+astat/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['astat']
+negoziato: DEBUG: ITALIC not properly closed on the same line at ['negoziato'] parsing negoziato/???/?????? / ???
+بودن: DEBUG: HTML tag <div> not properly closed at ['بودن'] parsing بودن/???/?????? / ???
+started on line 150, detected on line 250
+بودن: DEBUG: HTML tag <div> not properly closed at ['بودن'] parsing بودن/???/?????? / ???
+started on line 31, detected on line 250
+flotter: DEBUG: ITALIC not properly closed on the same line at ['flotter'] parsing flotter/???/?????? / ???
+akademisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['akademisch']
+coprofago: DEBUG: ITALIC not properly closed on the same line at ['coprofago'] parsing coprofago/???/?????? / ???
+azot/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['azot']
+amortisieren/Tedesco/Termini correlati: DEBUG: Unknown section: Coniugazione at ['amortisieren']
+berkel/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['berkel']
+migliarino/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['migliarino']
+previdenziale/Italiano/Aggettivo: DEBUG: Unknown section: See also at ['previdenziale']
+beryl/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['beryl']
+coordinazione: DEBUG: ITALIC not properly closed on the same line at ['coordinazione'] parsing coordinazione/???/?????? / ???
+aver/Veneto/Verbo: DEBUG: Unknown section: Coniugazione at ['aver']
+Francesca: DEBUG: ITALIC not properly closed on the same line at ['Francesca'] parsing Francesca/???/?????? / ???
+sparto/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['sparto']
+bohr/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['bohr']
+你/Cinese/Termini correlati: DEBUG: Unknown section: Pronomi personali Cinesi: at ['你']
+mpriesteto/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['mpriesteto']
+brom/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['brom']
+achter: DEBUG: ITALIC not properly closed on the same line at ['achter'] parsing achter/???/?????? / ???
+Amperestunde: DEBUG: ITALIC not properly closed on the same line at ['Amperestunde'] parsing Amperestunde/???/?????? / ???
+cer/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['cer']
+cez/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['cez']
+alabastro: DEBUG: ITALIC not properly closed on the same line at ['alabastro'] parsing alabastro/???/?????? / ???
+margine/Spanish: DEBUG: Unknown section: Verb at ['margine']
+chrom/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['chrom']
+cyna/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['cyna']
+amputieren/Tedesco/Termini correlati: DEBUG: Unknown section: Coniugazione at ['amputieren']
+cynk/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['cynk']
+cyrkon/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['cyrkon']
+teōtl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['teōtl']
+internato: DEBUG: ITALIC not properly closed on the same line at ['internato'] parsing internato/???/?????? / ???
+dysproz/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['dysproz']
+τσάι/Greco/Pronuncia: DEBUG: Unknown section: Vedi anche at ['τσάι']
+einstein/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['einstein']
+erb/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['erb']
+fagiolino/Italiano/Sostantivo: DEBUG: Unknown section: See also at ['fagiolino']
+madreperlato/Italiano/Aggettivo: DEBUG: Unknown section: Related terms at ['madreperlato']
+banda: DEBUG: ITALIC not properly closed on the same line at ['banda'] parsing banda/???/?????? / ???
+archeologia: DEBUG: ITALIC not properly closed on the same line at ['archeologia'] parsing archeologia/???/?????? / ???
+europ/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['europ']
+mina/Tataro di Crimea/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['mina']
+ferm/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['ferm']
+mina/Livonian: DEBUG: Unknown section: Personal pronoun at ['mina']
+fluor/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['fluor']
+fosfor/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['fosfor']
+bramire: DEBUG: ITALIC not properly closed on the same line at ['bramire'] parsing bramire/???/?????? / ???
+iconoclasta: DEBUG: ITALIC not properly closed on the same line at ['iconoclasta'] parsing iconoclasta/???/?????? / ???
+infido: DEBUG: ITALIC not properly closed on the same line at ['infido'] parsing infido/???/?????? / ???
+agua/Spagnolo/Etimologia / Derivazione: DEBUG: Unknown section: Note at ['agua']
+јод/Macedone/Sostantivo: DEBUG: Unknown section: Esempio at ['јод']
+penna: DEBUG: ITALIC not properly closed on the same line at ['penna'] parsing penna/???/?????? / ???
+uno/Italiano/Varianti: DEBUG: Unknown section: Declinazione at ['uno']
+frans/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['frans']
+seconda: DEBUG: ITALIC not properly closed on the same line at ['seconda'] parsing seconda/???/?????? / ???
+immateriale: DEBUG: ITALIC not properly closed on the same line at ['immateriale'] parsing immateriale/???/?????? / ???
+w: DEBUG: HTML tag <p> not properly closed at ['w'] parsing w/??????
+started on line 6, detected on line 7
+gorgonzola: DEBUG: ITALIC not properly closed on the same line at ['gorgonzola'] parsing gorgonzola/???/?????? / ???
+anadiplosi: DEBUG: ITALIC not properly closed on the same line at ['anadiplosi'] parsing anadiplosi/???/?????? / ???
+w/Polacco/Preposizione: DEBUG: Unknown section: Esempio at ['w']
+conclusion: DEBUG: ITALIC not properly closed on the same line at ['conclusion'] parsing conclusion/???/?????? / ???
+seta/Inglese/Sostantivo: DEBUG: Unknown section: Anagrams at ['seta']
+seta/Faroese/Sostantivo: DEBUG: Unknown section: Verb at ['seta']
+intero: DEBUG: ITALIC not properly closed on the same line at ['intero'] parsing intero/???/?????? / ???
+Polska/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['Polska']
+gadolin/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['gadolin']
+anastrofe: DEBUG: ITALIC not properly closed on the same line at ['anastrofe'] parsing anastrofe/???/?????? / ???
+uno/Veneto/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['uno']
+Aerostatik: DEBUG: ITALIC not properly closed on the same line at ['Aerostatik'] parsing Aerostatik/???/?????? / ???
+gal/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['gal']
+consumista/Italiano/Sostantivo: DEBUG: Unknown section: Related terms at ['consumista']
+ipnotizzare: DEBUG: ITALIC not properly closed on the same line at ['ipnotizzare'] parsing ipnotizzare/???/?????? / ???
+Affäre/Tedesco/Sostantivo: DEBUG: Unknown section: Falsi amici at ['Affäre']
+german/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['german']
+prubbecetà/Napoletano/Sostantivo: DEBUG: Unknown section: Fraseologia at ['prubbecetà']
+glin/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['glin']
+creator: DEBUG: ITALIC not properly closed on the same line at ['creator'] parsing creator/???/?????? / ???
+tun/Tedesco: DEBUG: Unknown section: Coniugazione at ['tun']
+hafn/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['hafn']
+Dia/Irlandese/Pronuncia: DEBUG: Unknown section: Declinazione at ['Dia']
+Dia/Irlandese/Pronuncia: DEBUG: Unknown section: Espressioni derivate at ['Dia']
+Dia/Irlandese/Pronuncia: DEBUG: Unknown section: Fonti at ['Dia']
+fama/Chickasaw/Verbo: DEBUG: Unknown section: Related terms at ['fama']
+Criseide: DEBUG: ITALIC not properly closed on the same line at ['Criseide'] parsing Criseide/???/?????? / ???
+Galeazzo: DEBUG: ITALIC not properly closed on the same line at ['Galeazzo'] parsing Galeazzo/???/?????? / ???
+tumefare: DEBUG: ITALIC not properly closed on the same line at ['tumefare'] parsing tumefare/???/?????? / ???
+cagnatota/Napoletano: DEBUG: Unknown section: Sostantivo possessivo at ['cagnatota']
+ego/Latino/Parole derivate: DEBUG: Unknown section: Discendenti in altre lingue at ['ego']
+sembrare: DEBUG: ITALIC not properly closed on the same line at ['sembrare'] parsing sembrare/???/?????? / ???
+ind/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['ind']
+pula/Romanian/Sostantivo: DEBUG: Unknown section: Usage notes at ['pula']
+pula/Tswana/Pronuncia: DEBUG: Unknown section: Homophones at ['pula']
+mammema/Napoletano: DEBUG: Unknown section: Sostantivo possessivo at ['mammema']
+iryd/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['iryd']
+iterb/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['iterb']
+soreta/Napoletano: DEBUG: Unknown section: Sostantivo possessivo at ['soreta']
+anticonformistica: DEBUG: BOLD not properly closed on the same line at ['anticonformistica'] parsing anticonformistica/???/??? ???
+ille/Latino/Aggettivo: DEBUG: Unknown section: Desinenza at ['ille']
+soreda/Napoletano: DEBUG: Unknown section: Sostantivo possessivo at ['soreda']
+itr/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['itr']
+pateto/Napoletano: DEBUG: Unknown section: Sostantivo possessivo at ['pateto']
+frateto/Napoletano: DEBUG: Unknown section: Sostantivo possessivo at ['frateto']
+emme/Finnish/Verbo: DEBUG: Unknown section: Conjugation at ['emme']
+emme/Finnish/Verbo: DEBUG: Unknown section: Usage notes at ['emme']
+presso/Italiano/Traduzione: DEBUG: Unknown section: See also at ['presso']
+formico/Latin/Etimologia / Derivazione: DEBUG: Unknown section: Intransitive verb at ['formico']
+formico/Latin/Etimologia / Derivazione: DEBUG: Unknown section: Derived terms at ['formico']
+vigilanza: DEBUG: ITALIC not properly closed on the same line at ['vigilanza'] parsing vigilanza/???/?????? / ???
+fanello/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['fanello']
+rimando/Spanish: DEBUG: Unknown section: Verb at ['rimando']
+pura/Indonesian/Sostantivo: DEBUG: Unknown section: Synonym at ['pura']
+kadm/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['kadm']
+kobalt/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['kobalt']
+verkaufen/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['verkaufen']
+puri/Italiano/Traduzione: DEBUG: Unknown section: Alternative spellings at ['puri']
+puri/Finnish: DEBUG: Unknown section: Verb at ['puri']
+nocivo/Spagnolo/Aggettivo: DEBUG: Unknown section: See also at ['nocivo']
+sta c'o penziero/Napoletano: DEBUG: Unknown section: Frase verbale at ["sta c'o penziero"]
+krypton/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['krypton']
+invasive/Inglese/Aggettivo: DEBUG: Unknown section: Translations at ['invasive']
+krzem/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['krzem']
+minuto/Spagnolo/Sostantivo: DEBUG: Unknown section: See also at ['minuto']
+ksenon/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['ksenon']
+crepitate: DEBUG: ITALIC not properly closed on the same line at ['crepitate'] parsing crepitate/???/?????? / ???
+lantan/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['lantan']
+pinta/Indonesian/Sostantivo: DEBUG: Unknown section: Verb at ['pinta']
+mire/Italiano/Pronuncia: DEBUG: Unknown section: Etimologia 1 at ['mire']
+mire/Italiano/Parole derivate: DEBUG: Unknown section: Translations at ['mire']
+mire/Italiano/Parole derivate: DEBUG: Unknown section: Verb at ['mire']
+mire/Italiano/Parole derivate: DEBUG: Unknown section: Etimologia 2 at ['mire']
+mire/Italiano/Sostantivo: DEBUG: Unknown section: Anagrammi at ['mire']
+quanta/Inglese/Sostantivo: DEBUG: Unknown section: Antonym at ['quanta']
+mire/Ungherese/Etimologia / Derivazione: DEBUG: Unknown section: Pronoun at ['mire']
+ovvero: DEBUG: no corresponding start tag found for </ref> at ['ovvero'] parsing ovvero/???/??????
+lorens/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['lorens']
+puntaspilli/Italiano/Sostantivo: DEBUG: Unknown section: Alternative spellings at ['puntaspilli']
+inverse/Inglese/Aggettivo: DEBUG: Unknown section: Translations at ['inverse']
+lutet/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['lutet']
+esaustivo: DEBUG: ITALIC not properly closed on the same line at ['esaustivo'] parsing esaustivo/???/?????? / ???
+inverse/Inglese/Sostantivo: DEBUG: Unknown section: Translations at ['inverse']
+niente: DEBUG: ITALIC not properly closed on the same line at ['niente'] parsing niente/???/?????? / ???
+mieszkać/Polacco/Verbo: DEBUG: Unknown section: Esempio at ['mieszkać']
+maceratore/Italiano/Sostantivo: DEBUG: Unknown section: See also at ['maceratore']
+assolvere: DEBUG: ITALIC not properly closed on the same line at ['assolvere'] parsing assolvere/???/?????? / ???
+oquichtli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['oquichtli']
+kuća/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['kuća']
+macchinale: DEBUG: ITALIC not properly closed on the same line at ['macchinale'] parsing macchinale/???/?????? / ???
+nitratazione/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['nitratazione']
+astronomo: DEBUG: ITALIC not properly closed on the same line at ['astronomo'] parsing astronomo/???/?????? / ???
+meitner/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['meitner']
+ἀ-/Greco antico/Prefisso: DEBUG: Unknown section: Esempio at ['ἀ-']
+ἀ-/Greco antico/Prefisso: DEBUG: Unknown section: Esempio at ['ἀ-']
+ἀ-/Greco antico/Prefisso: DEBUG: Unknown section: Esempio at ['ἀ-']
+demeurer: DEBUG: ITALIC not properly closed on the same line at ['demeurer'] parsing demeurer/???/?????? / ???
+일/Coreano/Aggettivo numerale: DEBUG: Unknown section: Usanza at ['일']
+mendelew/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['mendelew']
+blomma/Svedese/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['blomma']
+èsar/Veneto/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['èsar']
+mistero: DEBUG: ITALIC not properly closed on the same line at ['mistero'] parsing mistero/???/?????? / ???
+miedź/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['miedź']
+sai/Inglese/Pronuncia: DEBUG: Unknown section: Anagrams at ['sai']
+sai/Estonian/Sostantivo: DEBUG: Unknown section: Verb at ['sai']
+sai/Finnish: DEBUG: Unknown section: Verb at ['sai']
+sai/Finnish: DEBUG: Unknown section: Proper noun at ['sai']
+sai/Japanese: DEBUG: Unknown section: Romaji at ['sai']
+sai/Mandarin: DEBUG: Unknown section: Pinyin at ['sai']
+sai/Mandarin: DEBUG: Unknown section: Pinyin syllable at ['sai']
+sai/Mandarin: DEBUG: Unknown section: Usage notes at ['sai']
+novizza: DEBUG: ITALIC not properly closed on the same line at ['novizza'] parsing novizza/???/?????? / ???
+molibden/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['molibden']
+isoceraunica/Italiano/Traduzione: DEBUG: Unknown section: Bibliografia at ['isoceraunica']
+cuisine: DEBUG: ITALIC not properly closed on the same line at ['cuisine'] parsing cuisine/???/?????? / ???
+bagno: DEBUG: ITALIC not properly closed on the same line at ['bagno'] parsing bagno/???/?????? / ???
+dentario: DEBUG: ITALIC not properly closed on the same line at ['dentario'] parsing dentario/???/?????? / ???
+magnanina/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['magnanina']
+qualora/Italiano/Congiunzione: DEBUG: Unknown section: Note sull'utilizzo at ['qualora']
+novizzo: DEBUG: ITALIC not properly closed on the same line at ['novizzo'] parsing novizzo/???/?????? / ???
+noviso: DEBUG: ITALIC not properly closed on the same line at ['noviso'] parsing noviso/???/?????? / ???
+stipulare: DEBUG: ITALIC not properly closed on the same line at ['stipulare'] parsing stipulare/???/?????? / ???
+magnesia/Inglese/Sostantivo: DEBUG: Unknown section: Translations at ['magnesia']
+zeta/Spagnolo/Pronuncia: DEBUG: Unknown section: Omofoni at ['zeta']
+cuocere: DEBUG: ITALIC not properly closed on the same line at ['cuocere'] parsing cuocere/???/?????? / ???
+epilettico/Italiano/Sostantivo: DEBUG: Unknown section: Related terms at ['epilettico']
+media/Inglese/Sostantivo: DEBUG: Unknown section: Usage notes at ['media']
+media/Inglese/Sostantivo: DEBUG: Unknown section: Usage notes at ['media']
+media/Inglese/Parole derivate: DEBUG: Unknown section: Translations at ['media']
+media/Esperanto/Sinonimi: DEBUG: Unknown section: Verb at ['media']
+media/Esperanto/Sinonimi: DEBUG: Unknown section: Related terms at ['media']
+magia: DEBUG: ITALIC not properly closed on the same line at ['magia'] parsing magia/???/?????? / ???
+respirer: DEBUG: ITALIC not properly closed on the same line at ['respirer'] parsing respirer/???/?????? / ???
+stasofobia: DEBUG: ITALIC not properly closed on the same line at ['stasofobia'] parsing stasofobia/???/?????? / ???
+apostrofe: DEBUG: ITALIC not properly closed on the same line at ['apostrofe'] parsing apostrofe/???/?????? / ???
+crapapelada: DEBUG: ITALIC not properly closed on the same line at ['crapapelada'] parsing crapapelada/???/??? ??? e ???
+ascí/Napoletano/Verbo: DEBUG: Unknown section: Coniugazione at ['ascí']
+motivate/Italiano/Aggettivo, forma flessa: DEBUG: Unknown section: Transitive verb at ['motivate']
+motivate/Italiano/Aggettivo, forma flessa: DEBUG: Unknown section: Translations at ['motivate']
+salicilato/Italiano/Sostantivo: DEBUG: Unknown section: Derivd terms at ['salicilato']
+conhecimento: DEBUG: ITALIC not properly closed on the same line at ['conhecimento'] parsing conhecimento/???/?????? / ???
+pizzicata/Italiano/Sinonimi: DEBUG: Unknown section: Verb at ['pizzicata']
+susta: DEBUG: ITALIC not properly closed on the same line at ['susta'] parsing susta/???/?????? / ???
+sputter/Inglese/Verbo: DEBUG: Unknown section: Voci simili at ['sputter']
+favorito/Spagnolo/Aggettivo: DEBUG: Unknown section: See also at ['favorito']
+我/Cinese/Etimologia / Derivazione: DEBUG: Unknown section: Forma antica at ['我']
+我/Cinese/Termini correlati: DEBUG: Unknown section: Pronomi Personali Cinesi: at ['我']
+pizzicato/Italiano/Pronuncia: DEBUG: Unknown section: Antonyms at ['pizzicato']
+pizzicato/Italiano/Pronuncia: DEBUG: Unknown section: Translations at ['pizzicato']
+albánský/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['albánský']
+stupire: DEBUG: ITALIC not properly closed on the same line at ['stupire'] parsing stupire/???/?????? / ???
+salmi/Inglese/Sostantivo: DEBUG: Unknown section: Translations at ['salmi']
+salmi/Inglese/Sostantivo: DEBUG: Unknown section: Related terms at ['salmi']
+salmi/Finnish/Sostantivo: DEBUG: Unknown section: Anagrams at ['salmi']
+我/Giapponese/Pronome possessivo: DEBUG: Unknown section: Composti at ['我']
+venir/Spagnolo/Verbo: DEBUG: Unknown section: Coniugazione at ['venir']
+malamente/Spagnolo: DEBUG: Unknown section: Etimologia at ['malamente']
+malamente/Spagnolo: DEBUG: Unknown section: Parte grammaticale at ['malamente']
+malamente/Spagnolo/Avverbio: DEBUG: Unknown section: Significato at ['malamente']
+macrocita/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['macrocita']
+procella: DEBUG: ITALIC not properly closed on the same line at ['procella'] parsing procella/???/?????? / ???
+mammama/Napoletano: DEBUG: Unknown section: Sostantivo possessivo at ['mammama']
+rasa/Swedish: DEBUG: Unknown section: Verb at ['rasa']
+attendere: DEBUG: ITALIC not properly closed on the same line at ['attendere'] parsing attendere/???/?????? / ???
+macrodontia/Inglese/Sostantivo: DEBUG: Unknown section: Translations at ['macrodontia']
+virgolettato/Italiano/Sostantivo: DEBUG: Unknown section: Related terms at ['virgolettato']
+slava/Serbian/Sostantivo: DEBUG: Unknown section: Cyrillic spelling at ['slava']
+inno: DEBUG: ITALIC not properly closed on the same line at ['inno'] parsing inno/???/?????? / ???
+vallata/Finlandese/Pronuncia: DEBUG: Unknown section: Verb at ['vallata']
+risarella/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['risarella']
+irregolare: DEBUG: ITALIC not properly closed on the same line at ['irregolare'] parsing irregolare/???/?????? / ???
+italský/Ceco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['italský']
+erre/Hungarian/Etimologia / Derivazione: DEBUG: Unknown section: Pronoun at ['erre']
+insipiente: DEBUG: ITALIC not properly closed on the same line at ['insipiente'] parsing insipiente/???/?????? / ???
+proclama/Spanish: DEBUG: Unknown section: Verb at ['proclama']
+j/Italiano/Lettera: DEBUG: Unknown section: Esempi at ['j']
+j/Italiano/Lettera: DEBUG: Unknown section: Uso passato at ['j']
+leben/Tedesco/Contrari: DEBUG: Unknown section: Coniugazione at ['leben']
+мост/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['мост']
+musivo: DEBUG: ITALIC not properly closed on the same line at ['musivo'] parsing musivo/???/?????? / ???
+petit-déjeuner: DEBUG: ITALIC not properly closed on the same line at ['petit-déjeuner'] parsing petit-déjeuner/???/?????? / ???
+mleko/Serbo/Sostantivo: DEBUG: Unknown section: In alfabeto cirillico at ['mleko']
+comunicare: DEBUG: ITALIC not properly closed on the same line at ['comunicare'] parsing comunicare/???/?????? / ???
+poire: DEBUG: ITALIC not properly closed on the same line at ['poire'] parsing poire/???/?????? / ???
+macroglossia/Inglese/Sostantivo: DEBUG: Unknown section: Translations at ['macroglossia']
+млеко/Serbo/Sostantivo: DEBUG: Unknown section: In alfabeto latino at ['млеко']
+gehen/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['gehen']
+拴住: DEBUG: ITALIC not properly closed on the same line at ['拴住'] parsing 拴住/???/?????? / ???
+omonimia: DEBUG: BOLD not properly closed on the same line at ['omonimia'] parsing omonimia/???/??? ???
+n: DEBUG: HTML tag <p> not properly closed at ['n'] parsing n/???/??????
+started on line 15, detected on line 16
+ulceroso/Spagnolo/Aggettivo: DEBUG: Unknown section: Related terms at ['ulceroso']
+farcire: DEBUG: ITALIC not properly closed on the same line at ['farcire'] parsing farcire/???/?????? / ???
+forza: DEBUG: no corresponding start tag found for </span> at ['forza'] parsing forza/???/??? ??? ???
+czternaście/Polacco/Aggettivo numerale: DEBUG: Unknown section: Esempio at ['czternaście']
+geniale: DEBUG: ITALIC not properly closed on the same line at ['geniale'] parsing geniale/???/?????? / ???
+condiscendere: DEBUG: ITALIC not properly closed on the same line at ['condiscendere'] parsing condiscendere/???/?????? ???
+werden/Tedesco/Pronuncia: DEBUG: Unknown section: Declinazione at ['werden']
+progressive/Inglese/Aggettivo: DEBUG: Unknown section: Translations at ['progressive']
+progressive/Inglese/Sostantivo: DEBUG: Unknown section: Translations at ['progressive']
+czterdzieści/Polacco/Aggettivo numerale: DEBUG: Unknown section: Esempio at ['czterdzieści']
+hindský/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['hindský']
+sforzare: DEBUG: no corresponding start tag found for </span> at ['sforzare'] parsing sforzare/???/??? ??? ???
+dziewiętnaście/Polacco/Aggettivo numerale: DEBUG: Unknown section: Esempio at ['dziewiętnaście']
+q: DEBUG: HTML tag <p> not properly closed at ['q'] parsing q/???/??????
+started on line 33, detected on line 34
+mercantile/Inglese/Aggettivo: DEBUG: Unknown section: Translations at ['mercantile']
+dwadzieścia/Polacco/Aggettivo numerale: DEBUG: Unknown section: Esempio at ['dwadzieścia']
+anglický/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['anglický']
+arabský/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['arabský']
+sociologico/Italiano/Etimologia / Derivazione: DEBUG: Unknown section: Derived terms at ['sociologico']
+dwieście/Polacco/Aggettivo numerale: DEBUG: Unknown section: Esempio at ['dwieście']
+macula/Inglese: DEBUG: Unknown section: Translations at ['macula']
+sola/Norwegian: DEBUG: Unknown section: Noun form at ['sola']
+caduto: DEBUG: no corresponding start tag found for </small> at ['caduto'] parsing caduto/???/?????? / ???
+rassegnare: DEBUG: ITALIC not properly closed on the same line at ['rassegnare'] parsing rassegnare/???/?????? / ???
+ipopion: DEBUG: ITALIC not properly closed on the same line at ['ipopion'] parsing ipopion/???/?????? / ???
+solfara/Italiano/Sostantivo: DEBUG: Unknown section: See also at ['solfara']
+variente/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['variente']
+noga/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['noga']
+vandalismo: DEBUG: ITALIC not properly closed on the same line at ['vandalismo'] parsing vandalismo/???/?????? / ???
+madiere: DEBUG: ITALIC not properly closed on the same line at ['madiere'] parsing madiere/???/?????? / ???
+arménský/Ceco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['arménský']
+bretagniska/Svedese/Sostantivo: DEBUG: Unknown section: Sinonimo at ['bretagniska']
+bretagnska/Svedese/Sostantivo: DEBUG: Unknown section: Sinonimo at ['bretagnska']
+генерал/Serbo/Sostantivo: DEBUG: Unknown section: In alfabeto latino at ['генерал']
+zona/Latino/Sostantivo: DEBUG: Unknown section: Pronuncia alternativa at ['zona']
+u: DEBUG: HTML tag <p> not properly closed at ['u'] parsing u/???/??????
+started on line 73, detected on line 74
+acchiappá/Napoletano/Verbo: DEBUG: Unknown section: Coniugazione at ['acchiappá']
+kommen/Tedesco/Pronuncia: DEBUG: Unknown section: Declinazione at ['kommen']
+ciabattino: DEBUG: ITALIC not properly closed on the same line at ['ciabattino'] parsing ciabattino/???/?????? / ???
+ha: DEBUG: ITALIC not properly closed on the same line at ['ha'] parsing ha/???/?????? / ???
+avé/Napoletano/Verbo: DEBUG: Unknown section: Coniugazione at ['avé']
+baskický/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['baskický']
+sud/Serbian/Sostantivo: DEBUG: Unknown section: Cyrillic spelling at ['sud']
+inverso: DEBUG: ITALIC not properly closed on the same line at ['inverso'] parsing inverso/???/?????? / ???
+singen/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['singen']
+piovoso: DEBUG: ITALIC not properly closed on the same line at ['piovoso'] parsing piovoso/???/?????? / ???
+solo/Spagnolo/Aggettivo: DEBUG: Unknown section: See also at ['solo']
+lacedemone: DEBUG: ITALIC not properly closed on the same line at ['lacedemone'] parsing lacedemone/???/?????? / ???
+indigente: DEBUG: ITALIC not properly closed on the same line at ['indigente'] parsing indigente/???/?????? / ???
+cuna/Spagnolo/Sillabazione: DEBUG: Unknown section: Vedere anche at ['cuna']
+impune/Romanian/Verbo: DEBUG: Unknown section: Related terms at ['impune']
+aurum/Latino: DEBUG: Unknown section: Declinazione at ['aurum']
+s'adonner: DEBUG: ITALIC not properly closed on the same line at ["s'adonner"] parsing s'adonner/???/?????? / ???
+templare/Spanish: DEBUG: Unknown section: Verb at ['templare']
+sterben/Tedesco/Pronuncia: DEBUG: Unknown section: Declinazione at ['sterben']
+sterile/Inglese/Sinonimi: DEBUG: Unknown section: Related terms at ['sterile']
+dusk/Inglese/Pronuncia: DEBUG: Unknown section: Esempio at ['dusk']
+z: DEBUG: HTML tag <p> not properly closed at ['z'] parsing z/???/??? ???
+started on line 25, detected on line 54
+kurz/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['kurz']
+küssen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['küssen']
+cupo: DEBUG: ITALIC not properly closed on the same line at ['cupo'] parsing cupo/???/?????? / ???
+klein/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['klein']
+schwer/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['schwer']
+levante: DEBUG: ITALIC not properly closed on the same line at ['levante'] parsing levante/???/?????? / ???
+spreken/Olandese/Pronuncia: DEBUG: Unknown section: Coniugazione at ['spreken']
+sluiten/Olandese/Pronuncia: DEBUG: Unknown section: Coniugazione at ['sluiten']
+seelenverwandt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['seelenverwandt']
+cywilny/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['cywilny']
+oncologo: DEBUG: ITALIC not properly closed on the same line at ['oncologo'] parsing oncologo/???/?????? / ???
+svobodný/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['svobodný']
+mestichino/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['mestichino']
+fare la fica/Italiano/Varianti: DEBUG: Unknown section: Coniugazione at ['fare la fica']
+drukarnia/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['drukarnia']
+ab antiquo/Latino/Pronuncia: DEBUG: Unknown section: Esempio at ['ab antiquo']
+ordinario/Spanish/Aggettivo: DEBUG: Unknown section: Related terms at ['ordinario']
+tó/Navajo/Sostantivo: DEBUG: Unknown section: Declinazione at ['tó']
+anemone: DEBUG: ITALIC not properly closed on the same line at ['anemone'] parsing anemone/???/?????? / ???
+metanolato/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['metanolato']
+metanolato/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['metanolato']
+Schuhplattler: DEBUG: ITALIC not properly closed on the same line at ['Schuhplattler'] parsing Schuhplattler/???/?????? / ???
+termometro: DEBUG: ITALIC not properly closed on the same line at ['termometro'] parsing termometro/???/?????? / ???
+ridotto/Italiano/Traduzione: DEBUG: Unknown section: Etymology at ['ridotto']
+occaso/Italiano/Termini correlati: DEBUG: Unknown section: correlati etimologici at ['occaso']
+occaso/Italiano/Termini correlati: DEBUG: Unknown section: correlati logici at ['occaso']
+vulvovaginale/Italiano/Aggettivo: DEBUG: Unknown section: Related terms at ['vulvovaginale']
+jutro/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['jutro']
+zebrato/Italiano/Aggettivo: DEBUG: Unknown section: Related terms at ['zebrato']
+glottotecnica: DEBUG: ITALIC not properly closed on the same line at ['glottotecnica'] parsing glottotecnica/???/?????? / ???
+え/Giapponese: DEBUG: Unknown section: Carattere Hiragana at ['え']
+metilato/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['metilato']
+metilato/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['metilato']
+etanolato/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['etanolato']
+etanolato/Italiano/Sostantivo: DEBUG: Unknown section: Synonyms at ['etanolato']
+volante/Portoghese: DEBUG: Unknown section: Vedi anche at ['volante']
+validare/Spanish: DEBUG: Unknown section: Verb at ['validare']
+perestrojka: DEBUG: ITALIC not properly closed on the same line at ['perestrojka'] parsing perestrojka/???/?????? / ???
+weryfikować/Polacco/Sinonimi: DEBUG: Unknown section: Esempio at ['weryfikować']
+czas/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['czas']
+petrello/Italiano/Sostantivo: DEBUG: Unknown section: Derived terms at ['petrello']
+assenzio: DEBUG: ITALIC not properly closed on the same line at ['assenzio'] parsing assenzio/???/?????? / ???
+riskovat: DEBUG: ITALIC not properly closed on the same line at ['riskovat'] parsing riskovat/???/?????? / ???
+giacenza: DEBUG: ITALIC not properly closed on the same line at ['giacenza'] parsing giacenza/???/??? ??? e ???
+lapidea: DEBUG: ITALIC not properly closed on the same line at ['lapidea'] parsing lapidea/???/??? ???
+wärmebeständig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['wärmebeständig']
+acérrimo/Portoghese/Pronuncia: DEBUG: Unknown section: Brasile at ['acérrimo']
+acérrimo/Portoghese/Pronuncia: DEBUG: Unknown section: Portogallo at ['acérrimo']
+planina/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['planina']
+originario: DEBUG: ITALIC not properly closed on the same line at ['originario'] parsing originario/???/?????? / ???
+אנו: DEBUG: HTML tag <small> not properly closed at ['אנו'] parsing אנו/???/??????
+started on line 5, detected on line 6
+аз: DEBUG: HTML tag <small> not properly closed at ['аз'] parsing аз/???/??????
+started on line 5, detected on line 6
+perzona/Napoletano/Sillabazione: DEBUG: Unknown section: Verzioni at ['perzona']
+көке/Kazako/Sillabazione: DEBUG: Unknown section: nell' alfabeto latino at ['көке']
+perzòna/Napoletano/Sillabazione: DEBUG: Unknown section: Verzioni at ['perzòna']
+studený/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['studený']
+ogniqualvolta: DEBUG: ITALIC not properly closed on the same line at ['ogniqualvolta'] parsing ogniqualvolta/???/?????? / ???
+seno/Serbo/Etimologia / Derivazione: DEBUG: Unknown section: Grafia cirillica at ['seno']
+voltolino/Italiano/Etimologia / Derivazione: DEBUG: Unknown section: Derived terms at ['voltolino']
+pargolo: DEBUG: ITALIC not properly closed on the same line at ['pargolo'] parsing pargolo/???/?????? / ???
+rassegnazione: DEBUG: ITALIC not properly closed on the same line at ['rassegnazione'] parsing rassegnazione/???/?????? / ???
+politura: DEBUG: ITALIC not properly closed on the same line at ['politura'] parsing politura/???/?????? / ???
+sexy: DEBUG: ITALIC not properly closed on the same line at ['sexy'] parsing sexy/???/?????? / ???
+pratico: DEBUG: ITALIC not properly closed on the same line at ['pratico'] parsing pratico/???/?????? / ???
+Ave: DEBUG: no corresponding start tag found for </ref> at ['Ave'] parsing Ave/???/??????
+مَن: DEBUG: HTML tag <small> not properly closed at ['مَن'] parsing مَن/???/??????
+started on line 5, detected on line 6
+tacheometro: DEBUG: ITALIC not properly closed on the same line at ['tacheometro'] parsing tacheometro/???/?????? / ???
+V/Latino/Lettera: DEBUG: Unknown section: Numero cardinale at ['V']
+prestar/Italiano/Verbo: DEBUG: Unknown section: References at ['prestar']
+prestar/Spagnolo: DEBUG: Unknown section: Transitive verb at ['prestar']
+prestar/Spagnolo: DEBUG: Unknown section: Related terms at ['prestar']
+ululato/Spanish/Sostantivo: DEBUG: Unknown section: Related terms at ['ululato']
+يَوم: DEBUG: HTML tag <small> not properly closed at ['يَوم'] parsing يَوم/???/??????
+started on line 5, detected on line 6
+tralatizio: DEBUG: ITALIC not properly closed on the same line at ['tralatizio'] parsing tralatizio/???/?????? / ???
+olografo: DEBUG: ITALIC not properly closed on the same line at ['olografo'] parsing olografo/???/?????? / ???
+wirtschaftsfeindlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['wirtschaftsfeindlich']
+pisarz/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['pisarz']
+solerte: DEBUG: ITALIC not properly closed on the same line at ['solerte'] parsing solerte/???/??????
+dwa/Polacco/Aggettivo numerale: DEBUG: Unknown section: Esempio at ['dwa']
+trzy/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['trzy']
+obéir: DEBUG: ITALIC not properly closed on the same line at ['obéir'] parsing obéir/???/?????? / ???
+ту: DEBUG: HTML tag <small> not properly closed at ['ту'] parsing ту/???/??????
+started on line 5, detected on line 6
+pięć/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['pięć']
+godzina/Polacco/Sostantivo: DEBUG: Unknown section: Esempio at ['godzina']
+мы: DEBUG: HTML tag <small> not properly closed at ['мы'] parsing мы/???/??????
+started on line 5, detected on line 6
+siedem/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['siedem']
+osiem/Polacco/Termini correlati: DEBUG: Unknown section: Esempio at ['osiem']
+amplificare: DEBUG: ITALIC not properly closed on the same line at ['amplificare'] parsing amplificare/???/?????? / ???
+discanto: DEBUG: ITALIC not properly closed on the same line at ['discanto'] parsing discanto/???/?????? / ???
+bitch: DEBUG: ITALIC not properly closed on the same line at ['bitch'] parsing bitch/???/?????? / ???
+capriolo: DEBUG: ITALIC not properly closed on the same line at ['capriolo'] parsing capriolo/???/?????? / ???
+нога/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['нога']
+immarcescibili: DEBUG: ITALIC not properly closed on the same line at ['immarcescibili'] parsing immarcescibili/???/??? ???
+být/Ceco/Verbo: DEBUG: HTML tag <div> not properly closed at ['být'] parsing být
+started on line 1, detected on line 88
+јутро/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['јутро']
+cras/Sardo/Varianti: DEBUG: Unknown section: Modi di dire e proverbi at ['cras']
+cras/Sardo/Varianti: DEBUG: Unknown section: Etimologia at ['cras']
+cras/Sardo/Termini correlati: DEBUG: Unknown section: Bibliografia at ['cras']
+планина/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['планина']
+国/Giapponese/Pronuncia: DEBUG: Unknown section: Uso at ['国']
+protiústavní/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['protiústavní']
+2026-10-01 22:26:26,836 INFO:   ... 1/760538 pages (0.0%) processed, 4806:39:52 remaining
+eccidio: DEBUG: ITALIC not properly closed on the same line at ['eccidio'] parsing eccidio/???/?????? / ???
+殆ど/Giapponese/Avverbio: DEBUG: Unknown section: Nota at ['殆ど']
+neústavní/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['neústavní']
+caicco: DEBUG: ITALIC not properly closed on the same line at ['caicco'] parsing caicco/???/?????? / ???
+гора/Serbo/Sostantivo: DEBUG: Unknown section: Declinazione at ['гора']
+cronotassi: DEBUG: ITALIC not properly closed on the same line at ['cronotassi'] parsing cronotassi/???/?????? / ???
+istogenesi: DEBUG: ITALIC not properly closed on the same line at ['istogenesi'] parsing istogenesi/???/?????? / ???
+2026-10-01 22:26:27,837 INFO:   ... 1491/760538 pages (0.2%) processed, 03:21:32 remaining
+cor/Latino: DEBUG: Unknown section: Declinazione at ['cor']
+cor/Latino/Termini correlati: DEBUG: Unknown section: Discendenti at ['cor']
+pneumoconiosi: DEBUG: ITALIC not properly closed on the same line at ['pneumoconiosi'] parsing pneumoconiosi/???/?????? / ???
+avere voce in capitolo: DEBUG: HTML tag <noinclude> not properly closed at ['avere voce in capitolo'] parsing avere voce in capitolo/???/Note / Riferimenti
+started on line 13, detected on line 13
+fotilo: DEBUG: ITALIC not properly closed on the same line at ['fotilo'] parsing fotilo/???/?????? / ???
+onnipresenza: DEBUG: ITALIC not properly closed on the same line at ['onnipresenza'] parsing onnipresenza/???/?????? / ???
+piosenka/Polacco/Sostantivo: DEBUG: Unknown section: Pronunzia at ['piosenka']
+Faschismus: DEBUG: ITALIC not properly closed on the same line at ['Faschismus'] parsing Faschismus/???/?????? / ???
+おいしい/Giapponese/Aggettivo: DEBUG: Unknown section: Nota at ['おいしい']
+まずい/Giapponese/Aggettivo: DEBUG: Unknown section: Nota at ['まずい']
+2026-10-01 22:26:28,838 INFO:   ... 6715/760538 pages (0.9%) processed, 00:46:18 remaining
+helfen/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['helfen']
+verständlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['verständlich']
+dobrý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['dobrý']
+digeribilità/Italiano/Sostantivo: DEBUG: Unknown section: Antonym at ['digeribilità']
+verstehen/Tedesco/Termini correlati: DEBUG: Unknown section: Declinazione at ['verstehen']
+ardea: DEBUG: BOLD not properly closed on the same line at ['ardea'] parsing ardea/???/??? ???
+すぎる/Giapponese/Pronuncia: DEBUG: Unknown section: Uso at ['すぎる']
+oloturia: DEBUG: ITALIC not properly closed on the same line at ['oloturia'] parsing oloturia/???/?????? / ???
+τσάϊ/Greco/Pronuncia: DEBUG: Unknown section: Vedi anche at ['τσάϊ']
+umurundi: DEBUG: ITALIC not properly closed on the same line at ['umurundi'] parsing umurundi/???/??????
+2026-10-01 22:26:29,841 INFO:   ... 14771/760538 pages (1.9%) processed, 00:21:40 remaining
+tricheco: DEBUG: ITALIC not properly closed on the same line at ['tricheco'] parsing tricheco/???/?????? / ???
+emungere: DEBUG: ITALIC not properly closed on the same line at ['emungere'] parsing emungere/???/?????? / ???
+fenachistoscopio: DEBUG: ITALIC not properly closed on the same line at ['fenachistoscopio'] parsing fenachistoscopio/???/?????? / ???
+Kristnaska Paĉjo: DEBUG: ITALIC not properly closed on the same line at ['Kristnaska Paĉjo'] parsing Kristnaska Paĉjo/???/?????? / ???
+isocora: DEBUG: ITALIC not properly closed on the same line at ['isocora'] parsing isocora/???/?????? / ???
+isocoro: DEBUG: ITALIC not properly closed on the same line at ['isocoro'] parsing isocoro/???/?????? / ???
+indefesso: DEBUG: ITALIC not properly closed on the same line at ['indefesso'] parsing indefesso/???/?????? / ???
+ながら/Giapponese/Suffisso: DEBUG: Unknown section: Uso at ['ながら']
+squamato: DEBUG: ITALIC not properly closed on the same line at ['squamato'] parsing squamato/???/?????? / ???
+squamati: DEBUG: ITALIC not properly closed on the same line at ['squamati'] parsing squamati/???/?????? / ???
+perineo: DEBUG: ITALIC not properly closed on the same line at ['perineo'] parsing perineo/???/?????? / ???
+serbevole: DEBUG: ITALIC not properly closed on the same line at ['serbevole'] parsing serbevole/???/?????? / ???
+sceverare: DEBUG: no corresponding start tag found for </ref> at ['sceverare'] parsing sceverare/???/??????
+sbrasare: DEBUG: ITALIC not properly closed on the same line at ['sbrasare'] parsing sbrasare/???/?????? / ???
+Werder/Tedesco/Parole derivate: DEBUG: Unknown section: Toponimi at ['Werder']
+Werder/Tedesco/Parole derivate: DEBUG: Unknown section: Altro at ['Werder']
+sceverare/Italiano/Verbo: DEBUG: no corresponding start tag found for </ref> at ['sceverare'] parsing sceverare
+autogeno: DEBUG: ITALIC not properly closed on the same line at ['autogeno'] parsing autogeno/???/?????? / ???
+distendersi: DEBUG: ITALIC not properly closed on the same line at ['distendersi'] parsing distendersi/???/?????? / ???
+eleiva/Etrusco/Sostantivo: DEBUG: Unknown section: Declinazione at ['eleiva']
+geografico: DEBUG: ITALIC not properly closed on the same line at ['geografico'] parsing geografico/???/?????? / ???
+bruttare: DEBUG: ITALIC not properly closed on the same line at ['bruttare'] parsing bruttare/???/??????
+balla: DEBUG: ITALIC not properly closed on the same line at ['balla'] parsing balla/???/?????? / ???
+assalimento: DEBUG: ITALIC not properly closed on the same line at ['assalimento'] parsing assalimento/???/?????? / ???
+Bambin: DEBUG: ITALIC not properly closed on the same line at ['Bambin'] parsing Bambin/???/?????? / ???
+krajní/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['krajní']
+2026-10-01 22:26:32,689 INFO:   ... 19618/760538 pages (2.6%) processed, 00:18:00 remaining
+munt/Lombardo/Termini correlati: DEBUG: Unknown section: Omofoni at ['munt']
+obtorto collo: DEBUG: ITALIC not properly closed on the same line at ['obtorto collo'] parsing obtorto collo/???/?????? / ???
+mund/Lombardo/Varianti: DEBUG: Unknown section: Omofoni at ['mund']
+cinnamon: DEBUG: ITALIC not properly closed on the same line at ['cinnamon'] parsing cinnamon/???/?????? / ???
+julklapp: DEBUG: ITALIC not properly closed on the same line at ['julklapp'] parsing julklapp/???/?????? / ???
+audioleso: DEBUG: BOLD not properly closed on the same line at ['audioleso'] parsing audioleso/???/??? ???
+bisemico: DEBUG: ITALIC not properly closed on the same line at ['bisemico'] parsing bisemico/???/?????? / ???
+2026-10-01 22:26:33,700 INFO:   ... 32009/760538 pages (4.2%) processed, 00:11:14 remaining
+gonfalone: DEBUG: ITALIC not properly closed on the same line at ['gonfalone'] parsing gonfalone/???/?????? / ???
+porcino di halloween: DEBUG: ITALIC not properly closed on the same line at ['porcino di halloween'] parsing porcino di halloween/???/?????? / ???
+onninamente: DEBUG: ITALIC not properly closed on the same line at ['onninamente'] parsing onninamente/???/?????? / ???
+ecclesiaste: DEBUG: ITALIC not properly closed on the same line at ['ecclesiaste'] parsing ecclesiaste/???/?????? / ???
+mandracchio: DEBUG: ITALIC not properly closed on the same line at ['mandracchio'] parsing mandracchio/???/?????? / ???
+poiesi: DEBUG: ITALIC not properly closed on the same line at ['poiesi'] parsing poiesi/???/?????? / ???
+calli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['calli']
+mel/Latino/Sostantivo: DEBUG: Unknown section: Etimologia at ['mel']
+pantera: DEBUG: ITALIC not properly closed on the same line at ['pantera'] parsing pantera/???/?????? / ???
+2026-10-01 22:26:34,701 INFO:   ... 38488/760538 pages (5.1%) processed, 00:09:34 remaining
+croissant: DEBUG: ITALIC not properly closed on the same line at ['croissant'] parsing croissant/???/?????? / ???
+adozione: DEBUG: ITALIC not properly closed on the same line at ['adozione'] parsing adozione/???/??? ??? e ???
+essente: DEBUG: BOLD not properly closed on the same line at ['essente'] parsing essente/???/??? ???
+spagato: DEBUG: ITALIC not properly closed on the same line at ['spagato'] parsing spagato/???/?????? / ???
+arpia: DEBUG: ITALIC not properly closed on the same line at ['arpia'] parsing arpia/???/?????? / ???
+olimpiade: DEBUG: ITALIC not properly closed on the same line at ['olimpiade'] parsing olimpiade/???/?????? / ???
+obrigado: DEBUG: ITALIC not properly closed on the same line at ['obrigado'] parsing obrigado/???/?????? / ???
+assegno: DEBUG: ITALIC not properly closed on the same line at ['assegno'] parsing assegno/???/?????? / ???
+DNS: DEBUG: ITALIC not properly closed on the same line at ['DNS'] parsing DNS/???/?????? / ???
+girovago: DEBUG: ITALIC not properly closed on the same line at ['girovago'] parsing girovago/???/?????? / ???
+falcastro: DEBUG: ITALIC not properly closed on the same line at ['falcastro'] parsing falcastro/???/?????? / ???
+manganello: DEBUG: ITALIC not properly closed on the same line at ['manganello'] parsing manganello/???/?????? / ???
+stereoscopia: DEBUG: ITALIC not properly closed on the same line at ['stereoscopia'] parsing stereoscopia/???/?????? / ???
+cinabro: DEBUG: ITALIC not properly closed on the same line at ['cinabro'] parsing cinabro/???/?????? / ???
+ciecierzyca: DEBUG: ITALIC not properly closed on the same line at ['ciecierzyca'] parsing ciecierzyca/???/??????
+applicazione: DEBUG: ITALIC not properly closed on the same line at ['applicazione'] parsing applicazione/???/?????? / ???
+eh/Italiano/Etimologia / Derivazione: DEBUG: Unknown section: Falsi amici at ['eh']
+refettorio: DEBUG: ITALIC not properly closed on the same line at ['refettorio'] parsing refettorio/???/?????? / ???
+bizzoso: DEBUG: ITALIC not properly closed on the same line at ['bizzoso'] parsing bizzoso/???/??????
+ciapin: DEBUG: ITALIC not properly closed on the same line at ['ciapin'] parsing ciapin/???/Note / Riferimenti
+xochitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Ulteriori informazioni at ['xochitl']
+profana/Italiano/Sostantivo: DEBUG: Unknown section: Verb at ['profana']
+profana/Spanish: DEBUG: Unknown section: Verb at ['profana']
+gandula: DEBUG: ITALIC not properly closed on the same line at ['gandula'] parsing gandula/???/?????? / ???
+decabrista: DEBUG: ITALIC not properly closed on the same line at ['decabrista'] parsing decabrista/???/?????? / ???
+itterico: DEBUG: ITALIC not properly closed on the same line at ['itterico'] parsing itterico/???/?????? / ???
+accentuazione: DEBUG: ITALIC not properly closed on the same line at ['accentuazione'] parsing accentuazione/???/?????? / ???
+asola: DEBUG: ITALIC not properly closed on the same line at ['asola'] parsing asola/???/?????? / ???
+sguagnì: DEBUG: ITALIC not properly closed on the same line at ['sguagnì'] parsing sguagnì/???/Note / Riferimenti
+feluca: DEBUG: ITALIC not properly closed on the same line at ['feluca'] parsing feluca/???/?????? / ???
+sporgere: DEBUG: ITALIC not properly closed on the same line at ['sporgere'] parsing sporgere/???/?????? / ???
+fulminare: DEBUG: ITALIC not properly closed on the same line at ['fulminare'] parsing fulminare/???/?????? / ???
+basista: DEBUG: ITALIC not properly closed on the same line at ['basista'] parsing basista/???/?????? / ???
+sciarada: DEBUG: ITALIC not properly closed on the same line at ['sciarada'] parsing sciarada/???/?????? / ???
+otre/Italiano/Pronuncia: DEBUG: Unknown section: Anagrammmi at ['otre']
+chaperon: DEBUG: ITALIC not properly closed on the same line at ['chaperon'] parsing chaperon/???/?????? / ???
+cimpanzé: DEBUG: ITALIC not properly closed on the same line at ['cimpanzé'] parsing cimpanzé/???/?????? / ???
+apparato: DEBUG: ITALIC not properly closed on the same line at ['apparato'] parsing apparato/???/?????? / ???
+radiare: DEBUG: ITALIC not properly closed on the same line at ['radiare'] parsing radiare/???/?????? / ???
+frotta: DEBUG: ITALIC not properly closed on the same line at ['frotta'] parsing frotta/???/?????? / ???
+cow-boy: DEBUG: ITALIC not properly closed on the same line at ['cow-boy'] parsing cow-boy/???/?????? / ???
+pannocchia: DEBUG: ITALIC not properly closed on the same line at ['pannocchia'] parsing pannocchia/???/?????? / ???
+ileo: DEBUG: ITALIC not properly closed on the same line at ['ileo'] parsing ileo/???/?????? / ???
+大胆/Giapponese/Aggettivo: DEBUG: Unknown section: Composti at ['大胆']
+commemoro: DEBUG: ITALIC not properly closed on the same line at ['commemoro'] parsing commemoro/???/?????? / ???
+asado: DEBUG: ITALIC not properly closed on the same line at ['asado'] parsing asado/???/?????? / ???
+大阪/Giapponese: DEBUG: Unknown section: Forma Alternativa at ['大阪']
+大阪/Giapponese/Nome proprio: DEBUG: Unknown section: Composti at ['大阪']
+ontano: DEBUG: ITALIC not properly closed on the same line at ['ontano'] parsing ontano/???/?????? / ???
+阪/Giapponese/Pronuncia: DEBUG: Unknown section: Composti at ['阪']
+deflagro: DEBUG: ITALIC not properly closed on the same line at ['deflagro'] parsing deflagro/???/?????? / ???
+胆/Giapponese/Sostantivo: DEBUG: Unknown section: Composti at ['胆']
+たん/Giapponese/Suffisso: DEBUG: Unknown section: Lettura dei Kanji at ['たん']
+たん/Giapponese/Suffisso: DEBUG: Unknown section: Lettura On di: at ['たん']
+emerodromo: DEBUG: ITALIC not properly closed on the same line at ['emerodromo'] parsing emerodromo/???/?????? / ???
+consobrino: DEBUG: ITALIC not properly closed on the same line at ['consobrino'] parsing consobrino/???/?????? / ???
+anormale: DEBUG: ITALIC not properly closed on the same line at ['anormale'] parsing anormale/???/?????? / ???
+ortotteri: DEBUG: ITALIC not properly closed on the same line at ['ortotteri'] parsing ortotteri/???/?????? / ???
+baratro: DEBUG: ITALIC not properly closed on the same line at ['baratro'] parsing baratro/???/?????? / ???
+iddio: DEBUG: no corresponding start tag found for </ref> at ['iddio'] parsing iddio/???/?????? / ???
+iddio: DEBUG: ITALIC not properly closed on the same line at ['iddio'] parsing iddio/???/?????? / ???
+bèrlafüs/Lombardo/Pronuncia: DEBUG: Unknown section: Nota at ['bèrlafüs']
+לינגוה/Giudeo-spagnolo/Parole derivate: DEBUG: Unknown section: Ortografia alternativa at ['לינגוה']
+atl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['atl']
+BRICS/Italiano/Termini correlati: DEBUG: Unknown section: Altri progetti at ['BRICS']
+sarchiatura/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['sarchiatura']
+Appennini/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['Appennini']
+orchestrazione/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['orchestrazione']
+salina/Inglese/Sinonimi: DEBUG: Unknown section: Altri progetti at ['salina']
+invaiatura/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['invaiatura']
+mal di mare/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['mal di mare']
+catacomba/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['catacomba']
+trema/Bretone/Sinonimi: DEBUG: Unknown section: Declinazioni at ['trema']
+velatura/Latino/Etimologia / Derivazione: DEBUG: Unknown section: Altri progetti at ['velatura']
+cesena/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['cesena']
+unicellulare/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['unicellulare']
+2026-10-01 22:27:02,994 INFO:   ... 38601/760538 pages (5.1%) processed, 00:18:21 remaining
+2026-10-01 22:27:03,994 INFO:   ... 43325/760538 pages (5.7%) processed, 00:16:31 remaining
+infanticidio: DEBUG: ITALIC not properly closed on the same line at ['infanticidio'] parsing infanticidio/???/?????? / ???
+2026-10-01 22:27:04,994 INFO:   ... 45445/760538 pages (6.0%) processed, 00:15:58 remaining
+coronamento/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['coronamento']
+2026-10-01 22:27:05,994 INFO:   ... 50902/760538 pages (6.7%) processed, 00:14:23 remaining
+2026-10-01 22:27:06,995 INFO:   ... 62021/760538 pages (8.2%) processed, 00:11:48 remaining
+sedimentazione/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['sedimentazione']
+2026-10-01 22:27:07,998 INFO:   ... 70816/760538 pages (9.3%) processed, 00:10:22 remaining
+2026-10-01 22:27:08,998 INFO:   ... 81168/760538 pages (10.7%) processed, 00:09:03 remaining
+2026-10-01 22:27:12,349 INFO:   ... 83026/760538 pages (10.9%) processed, 00:09:17 remaining
+2026-10-01 22:27:13,349 INFO:   ... 102836/760538 pages (13.5%) processed, 00:07:22 remaining
+2026-10-01 22:27:14,349 INFO:   ... 117856/760538 pages (15.5%) processed, 00:06:23 remaining
+etimologizzante/Italiano/Traduzione: DEBUG: Unknown section: Referenze at ['etimologizzante']
+etimologizzato/Italiano/Traduzione: DEBUG: Unknown section: Referenze at ['etimologizzato']
+etimologizzate/Italiano/Traduzione: DEBUG: Unknown section: Referenze at ['etimologizzate']
+2026-10-01 22:27:15,349 INFO:   ... 130337/760538 pages (17.1%) processed, 00:05:44 remaining
+2026-10-01 22:27:16,349 INFO:   ... 142384/760538 pages (18.7%) processed, 00:05:13 remaining
+dottrina/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['dottrina']
+2026-10-01 22:27:17,349 INFO:   ... 156071/760538 pages (20.5%) processed, 00:04:43 remaining
+2026-10-01 22:27:18,349 INFO:   ... 167402/760538 pages (22.0%) processed, 00:04:23 remaining
+2026-10-01 22:27:19,352 INFO:   ... 178549/760538 pages (23.5%) processed, 00:04:05 remaining
+acatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['acatl']
+2026-10-01 22:27:20,352 INFO:   ... 190966/760538 pages (25.1%) processed, 00:03:47 remaining
+2026-10-01 22:27:21,352 INFO:   ... 200746/760538 pages (26.4%) processed, 00:03:35 remaining
+correlazione: DEBUG: ITALIC not properly closed on the same line at ['correlazione'] parsing correlazione/???/?????? / ???
+2026-10-01 22:27:22,354 INFO:   ... 212348/760538 pages (27.9%) processed, 00:03:22 remaining
+2026-10-01 22:27:23,354 INFO:   ... 226536/760538 pages (29.8%) processed, 00:03:06 remaining
+2026-10-01 22:27:25,436 INFO:   ... 228730/760538 pages (30.1%) processed, 00:03:09 remaining
+2026-10-01 22:27:26,437 INFO:   ... 248614/760538 pages (32.7%) processed, 00:02:49 remaining
+2026-10-01 22:27:27,437 INFO:   ... 271302/760538 pages (35.7%) processed, 00:02:30 remaining
+2026-10-01 22:27:28,437 INFO:   ... 284060/760538 pages (37.3%) processed, 00:02:21 remaining
+2026-10-01 22:27:29,437 INFO:   ... 296721/760538 pages (39.0%) processed, 00:02:13 remaining
+2026-10-01 22:27:30,437 INFO:   ... 310045/760538 pages (40.8%) processed, 00:02:05 remaining
+2026-10-01 22:27:32,152 INFO:   ... 317517/760538 pages (41.7%) processed, 00:02:02 remaining
+2026-10-01 22:27:33,152 INFO:   ... 335204/760538 pages (44.1%) processed, 00:01:53 remaining
+eye-liner: DEBUG: ITALIC not properly closed on the same line at ['eye-liner'] parsing eye-liner/???/?????? / ???
+Eltern/Tedesco/Parole derivate: DEBUG: Unknown section: Note d'uso at ['Eltern']
+2026-10-01 22:27:34,152 INFO:   ... 354119/760538 pages (46.6%) processed, 00:01:43 remaining
+ある: DEBUG: ITALIC not properly closed on the same line at ['ある'] parsing ある/???/?????? / ???
+neogene: DEBUG: BOLD not properly closed on the same line at ['neogene'] parsing neogene/???/??? ???
+enigmatico: DEBUG: ITALIC not properly closed on the same line at ['enigmatico'] parsing enigmatico/???/?????? / ???
+aggiramento: DEBUG: ITALIC not properly closed on the same line at ['aggiramento'] parsing aggiramento/???/?????? / ???
+wahrscheinlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['wahrscheinlich']
+2026-10-01 22:27:35,328 INFO:   ... 357701/760538 pages (47.0%) processed, 00:01:42 remaining
+dilapidare: DEBUG: ITALIC not properly closed on the same line at ['dilapidare'] parsing dilapidare/???/?????? / ???
+cutinizzazione: DEBUG: ITALIC not properly closed on the same line at ['cutinizzazione'] parsing cutinizzazione/???/?????? / ???
+imiter: DEBUG: ITALIC not properly closed on the same line at ['imiter'] parsing imiter/???/?????? / ???
+trigliceride: DEBUG: ITALIC not properly closed on the same line at ['trigliceride'] parsing trigliceride/???/?????? / ???
+tamponare: DEBUG: ITALIC not properly closed on the same line at ['tamponare'] parsing tamponare/???/?????? / ???
+novela/Portoghese/Pronuncia: DEBUG: Unknown section: Lemmi correlati at ['novela']
+peccato originale: DEBUG: ITALIC not properly closed on the same line at ['peccato originale'] parsing peccato originale/???/?????? / ???
+nacatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['nacatl']
+dinaro: DEBUG: ITALIC not properly closed on the same line at ['dinaro'] parsing dinaro/???/?????? / ???
+gagliardo: DEBUG: ITALIC not properly closed on the same line at ['gagliardo'] parsing gagliardo/???/?????? / ???
+pitagorico: DEBUG: ITALIC not properly closed on the same line at ['pitagorico'] parsing pitagorico/???/?????? / ???
+arbeiten/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['arbeiten']
+eliotropio: DEBUG: ITALIC not properly closed on the same line at ['eliotropio'] parsing eliotropio/???/?????? / ???
+perquisire: DEBUG: ITALIC not properly closed on the same line at ['perquisire'] parsing perquisire/???/?????? / ???
+presocratico: DEBUG: html tag </timeline> not allowed in WikiText at ['presocratico'] parsing presocratico/Tavola cronologica dei principali presocratici
+presocratico: DEBUG: no corresponding start tag found for </timeline> at ['presocratico'] parsing presocratico/Tavola cronologica dei principali presocratici
+2026-10-01 22:27:36,328 INFO:   ... 368803/760538 pages (48.5%) processed, 00:01:37 remaining
+duschen/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['duschen']
+traumatico: DEBUG: ITALIC not properly closed on the same line at ['traumatico'] parsing traumatico/???/?????? / ???
+cullare: DEBUG: ITALIC not properly closed on the same line at ['cullare'] parsing cullare/???/?????? / ???
+romans/Francese/Aggettivo: DEBUG: Unknown section: Anagrammi at ['romans']
+scioperare: DEBUG: ITALIC not properly closed on the same line at ['scioperare'] parsing scioperare/???/?????? / ???
+choléra: DEBUG: ITALIC not properly closed on the same line at ['choléra'] parsing choléra/???/?????? / ???
+romans/Svedese/Sostantivo: DEBUG: Unknown section: Declinazioni at ['romans']
+romans/Fonti: DEBUG: Unknown section: Francese at ['romans']
+romans/Fonti: DEBUG: Unknown section: Svedese at ['romans']
+richtig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['richtig']
+spensierato: DEBUG: ITALIC not properly closed on the same line at ['spensierato'] parsing spensierato/???/?????? / ???
+recesso: DEBUG: ITALIC not properly closed on the same line at ['recesso'] parsing recesso/???/?????? / ???
+2026-10-01 22:27:37,416 INFO:   ... 370001/760538 pages (48.6%) processed, 00:01:38 remaining
+incriminare: DEBUG: ITALIC not properly closed on the same line at ['incriminare'] parsing incriminare/???/?????? / ???
+iposcenio: DEBUG: ITALIC not properly closed on the same line at ['iposcenio'] parsing iposcenio/???/?????? / ???
+regnare: DEBUG: ITALIC not properly closed on the same line at ['regnare'] parsing regnare/???/?????? / ???
+clarifier: DEBUG: ITALIC not properly closed on the same line at ['clarifier'] parsing clarifier/???/?????? / ???
+forziere: DEBUG: ITALIC not properly closed on the same line at ['forziere'] parsing forziere/???/?????? / ???
+antispastico: DEBUG: ITALIC not properly closed on the same line at ['antispastico'] parsing antispastico/???/?????? / ???
+2026-10-01 22:27:38,924 INFO:   ... 374701/760538 pages (49.3%) processed, 00:01:37 remaining
+congratulation: DEBUG: ITALIC not properly closed on the same line at ['congratulation'] parsing congratulation/???/?????? / ???
+sionismo: DEBUG: ITALIC not properly closed on the same line at ['sionismo'] parsing sionismo/???/?????? / ???
+espatriare: DEBUG: ITALIC not properly closed on the same line at ['espatriare'] parsing espatriare/???/?????? / ???
+pancreatografia: DEBUG: ITALIC not properly closed on the same line at ['pancreatografia'] parsing pancreatografia/???/?????? / ???
+catoblepa: DEBUG: BOLD not properly closed on the same line at ['catoblepa'] parsing catoblepa/???/??? ???
+scialorrea: DEBUG: ITALIC not properly closed on the same line at ['scialorrea'] parsing scialorrea/???/?????? / ???
+cateterismo: DEBUG: ITALIC not properly closed on the same line at ['cateterismo'] parsing cateterismo/???/?????? / ???
+sonico: DEBUG: ITALIC not properly closed on the same line at ['sonico'] parsing sonico/???/?????? / ???
+peonia: DEBUG: ITALIC not properly closed on the same line at ['peonia'] parsing peonia/???/?????? / ???
+consorteria: DEBUG: ITALIC not properly closed on the same line at ['consorteria'] parsing consorteria/???/?????? / ???
+disobbedire: DEBUG: ITALIC not properly closed on the same line at ['disobbedire'] parsing disobbedire/???/?????? / ???
+isto-: DEBUG: ITALIC not properly closed on the same line at ['isto-'] parsing isto-/???/?????? / ???
+supermarket: DEBUG: ITALIC not properly closed on the same line at ['supermarket'] parsing supermarket/???/?????? / ???
+bebè: DEBUG: ITALIC not properly closed on the same line at ['bebè'] parsing bebè/???/?????? / ???
+iconostasi: DEBUG: BOLD not properly closed on the same line at ['iconostasi'] parsing iconostasi/???/??? ???
+antico provenzale/Italiano/Traduzione: DEBUG: Unknown section: Altri progetti at ['antico provenzale']
+semigrasso: DEBUG: ITALIC not properly closed on the same line at ['semigrasso'] parsing semigrasso/???/?????? / ???
+lubrificazione: DEBUG: ITALIC not properly closed on the same line at ['lubrificazione'] parsing lubrificazione/???/?????? / ???
+anastomosi: DEBUG: BOLD not properly closed on the same line at ['anastomosi'] parsing anastomosi/???/??? ???
+Bruceploitation/Inglese/Etimologia / Derivazione: DEBUG: Unknown section: Altri progetti at ['Bruceploitation']
+Atene: DEBUG: ITALIC not properly closed on the same line at ['Atene'] parsing Atene/???/?????? / ???
+condensare: DEBUG: ITALIC not properly closed on the same line at ['condensare'] parsing condensare/???/?????? / ???
+razionalista: DEBUG: ITALIC not properly closed on the same line at ['razionalista'] parsing razionalista/???/?????? / ???
+2026-10-01 22:27:43,268 INFO:   ... 376001/760538 pages (49.4%) processed, 00:01:41 remaining
+jezero/Croato/Parole derivate: DEBUG: Unknown section: Declinazione at ['jezero']
+penuria: DEBUG: ITALIC not properly closed on the same line at ['penuria'] parsing penuria/???/?????? / ???
+monsonico: DEBUG: ITALIC not properly closed on the same line at ['monsonico'] parsing monsonico/???/?????? / ???
+zapad/Croato/Termini correlati: DEBUG: Unknown section: Declinazione at ['zapad']
+congruente/Interlingua/Sinonimi: DEBUG: Unknown section: sinonimi at ['congruente']
+congruente/Spagnolo/Sinonimi: DEBUG: Unknown section: sinonimi at ['congruente']
+łibá/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['łibá']
+mescolanza: DEBUG: ITALIC not properly closed on the same line at ['mescolanza'] parsing mescolanza/???/?????? / ???
+ingessare: DEBUG: ITALIC not properly closed on the same line at ['ingessare'] parsing ingessare/???/?????? / ???
+łizhin/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['łizhin']
+naalnish/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['naalnish']
+naalnish/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Temi at ['naalnish']
+níłchʼi/Navajo/Sostantivo: DEBUG: Unknown section: Declinazione at ['níłchʼi']
+2026-10-01 22:27:44,268 INFO:   ... 378925/760538 pages (49.8%) processed, 00:01:40 remaining
+yíchʼííh/Navajo/Verbo: DEBUG: Unknown section: Declinazione at ['yíchʼííh']
+yíchʼííh/Navajo/Verbo: DEBUG: Unknown section: Temi at ['yíchʼííh']
+föhn: DEBUG: ITALIC not properly closed on the same line at ['föhn'] parsing föhn/???/?????? / ???
+tzontecomatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tzontecomatl']
+piombaggine: DEBUG: ITALIC not properly closed on the same line at ['piombaggine'] parsing piombaggine/???/?????? / ???
+pōctli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['pōctli']
+popōchtli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['popōchtli']
+łį́į́ʼ/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['łį́į́ʼ']
+deformare: DEBUG: ITALIC not properly closed on the same line at ['deformare'] parsing deformare/???/?????? / ???
+tzontli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tzontli']
+tecomatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tecomatl']
+comatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['comatl']
+impositivo: DEBUG: ITALIC not properly closed on the same line at ['impositivo'] parsing impositivo/???/?????? / ???
+cōmitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['cōmitl']
+miliziano: DEBUG: ITALIC not properly closed on the same line at ['miliziano'] parsing miliziano/???/?????? / ???
+teorizzare: DEBUG: ITALIC not properly closed on the same line at ['teorizzare'] parsing teorizzare/???/?????? / ???
+tlantli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tlantli']
+mongoloide: DEBUG: ITALIC not properly closed on the same line at ['mongoloide'] parsing mongoloide/???/?????? / ???
+radiocomandare: DEBUG: ITALIC not properly closed on the same line at ['radiocomandare'] parsing radiocomandare/???/?????? / ???
+गुरु/Sanscrito: DEBUG: Unknown section: Etimologia at ['गुरु']
+गुरु/Sanscrito/Sostantivo: DEBUG: Unknown section: Declinazione at ['गुरु']
+गुरु/Sanscrito/Sostantivo: DEBUG: Unknown section: Significato at ['गुरु']
+2026-10-01 22:27:45,352 INFO:   ... 379959/760538 pages (50.0%) processed, 00:01:41 remaining
+omogeneità: DEBUG: ITALIC not properly closed on the same line at ['omogeneità'] parsing omogeneità/???/?????? / ???
+akʼis/Navajo/Sostantivo: DEBUG: Unknown section: Declinazione at ['akʼis']
+Redentore: DEBUG: ITALIC not properly closed on the same line at ['Redentore'] parsing Redentore/???/?????? / ???
+malfido: DEBUG: ITALIC not properly closed on the same line at ['malfido'] parsing malfido/???/?????? / ???
+bipedismo: DEBUG: ITALIC not properly closed on the same line at ['bipedismo'] parsing bipedismo/???
+patos: DEBUG: ITALIC not properly closed on the same line at ['patos'] parsing patos/???/?????? / ???
+viverra: DEBUG: ITALIC not properly closed on the same line at ['viverra'] parsing viverra/???/?????? / ???
+buonanotte al secchio: DEBUG: html tag </poem> not allowed in WikiText at ['buonanotte al secchio'] parsing buonanotte al secchio/???/?????? / ???
+buonanotte al secchio: DEBUG: no corresponding start tag found for </poem> at ['buonanotte al secchio'] parsing buonanotte al secchio/???/?????? / ???
+2026-10-01 22:27:46,352 INFO:   ... 387821/760538 pages (51.0%) processed, 00:01:38 remaining
+yáʼátʼééh/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['yáʼátʼééh']
+istok/Croato/Termini correlati: DEBUG: Unknown section: Declinazione at ['istok']
+cuahuitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['cuahuitl']
+mirmecofagide: DEBUG: ITALIC not properly closed on the same line at ['mirmecofagide'] parsing mirmecofagide/???/?????? / ???
+tlaxcalli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tlaxcalli']
+saad/Navajo/Sostantivo: DEBUG: Unknown section: Declinazione at ['saad']
+belê/Curdo/Sinonimi: DEBUG: Unknown section: Antonimi at ['belê']
+mecatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['mecatl']
+tēuctli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tēuctli']
+tēuctli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Ulteriori informazioni at ['tēuctli']
+tēcpan/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tēcpan']
+tēcpancalli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tēcpancalli']
+māitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['māitl']
+māitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Ulteriori informazioni at ['māitl']
+preplatonico: DEBUG: ITALIC not properly closed on the same line at ['preplatonico'] parsing preplatonico/???/?????? / ???
+arcaicità: DEBUG: ITALIC not properly closed on the same line at ['arcaicità'] parsing arcaicità/???/?????? / ???
+tlācatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tlācatl']
+2026-10-01 22:27:47,676 INFO:   ... 391501/760538 pages (51.5%) processed, 00:01:37 remaining
+nizhóní/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['nizhóní']
+ehuatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['ehuatl']
+colcosiano: DEBUG: ITALIC not properly closed on the same line at ['colcosiano'] parsing colcosiano/???/?????? / ???
+ācitlālin/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['ācitlālin']
+tetl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['tetl']
+łichííʼ/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['łichííʼ']
+Assunzione di Maria: DEBUG: ITALIC not properly closed on the same line at ['Assunzione di Maria'] parsing Assunzione di Maria/???/?????? / ???
+łitso/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['łitso']
+Mariä Himmelfahrt: DEBUG: ITALIC not properly closed on the same line at ['Mariä Himmelfahrt'] parsing Mariä Himmelfahrt/???/?????? / ???
+Miomorfi: DEBUG: ITALIC not properly closed on the same line at ['Miomorfi'] parsing Miomorfi/???/?????? / ???
+łigai/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['łigai']
+yishtłizh/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['yishtłizh']
+demoralizzare: DEBUG: ITALIC not properly closed on the same line at ['demoralizzare'] parsing demoralizzare/???/?????? / ???
+hózhǫ́/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['hózhǫ́']
+omitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['omitl']
+dootłʼizh/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['dootłʼizh']
+-in: DEBUG: html tag </categorytree> not allowed in WikiText at ['-in'] parsing -in/???/??? ??? ???
+-in: DEBUG: no corresponding start tag found for </categorytree> at ['-in'] parsing -in/???/??? ??? ???
+aerolito: DEBUG: BOLD not properly closed on the same line at ['aerolito'] parsing aerolito/???/??? ???
+tvrdý/Ceco/Proverbi e modi di dire: DEBUG: Unknown section: Declinazione at ['tvrdý']
+-tzin: DEBUG: html tag </categorytree> not allowed in WikiText at ['-tzin'] parsing -tzin/???/??? ??? ???
+-tzin: DEBUG: no corresponding start tag found for </categorytree> at ['-tzin'] parsing -tzin/???/??? ??? ???
+anatide: DEBUG: ITALIC not properly closed on the same line at ['anatide'] parsing anatide/???/?????? / ???
+diłhił/Navajo/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['diłhił']
+Ocotona: DEBUG: ITALIC not properly closed on the same line at ['Ocotona'] parsing Ocotona/???/?????? / ???
+vigilare: DEBUG: ITALIC not properly closed on the same line at ['vigilare'] parsing vigilare/???/?????? / ???
+attendre: DEBUG: ITALIC not properly closed on the same line at ['attendre'] parsing attendre/???/??????
+ricompensare: DEBUG: ITALIC not properly closed on the same line at ['ricompensare'] parsing ricompensare/???/?????? / ???
+sjever/Croato/Termini correlati: DEBUG: Unknown section: Declinazione at ['sjever']
+discobolo: DEBUG: ITALIC not properly closed on the same line at ['discobolo'] parsing discobolo/???/?????? / ???
+-pīl: DEBUG: html tag </categorytree> not allowed in WikiText at ['-pīl'] parsing -pīl/???/??? ??? ???
+-pīl: DEBUG: no corresponding start tag found for </categorytree> at ['-pīl'] parsing -pīl/???/??? ??? ???
+rifarsi: DEBUG: ITALIC not properly closed on the same line at ['rifarsi'] parsing rifarsi/???/??? ???
+Palinuridi: DEBUG: ITALIC not properly closed on the same line at ['Palinuridi'] parsing Palinuridi/???/?????? / ???
+Tarsioidei: DEBUG: BOLD not properly closed on the same line at ['Tarsioidei'] parsing Tarsioidei/???/??? ???
+abderita: DEBUG: ITALIC not properly closed on the same line at ['abderita'] parsing abderita/???/?????? / ???
+avventuriero: DEBUG: ITALIC not properly closed on the same line at ['avventuriero'] parsing avventuriero/???/?????? / ???
+minuzzare: DEBUG: ITALIC not properly closed on the same line at ['minuzzare'] parsing minuzzare/???/?????? / ???
+Z/Latino/Etimologia / Derivazione: DEBUG: Unknown section: Scrittura at ['Z']
+illetterato: DEBUG: ITALIC not properly closed on the same line at ['illetterato'] parsing illetterato/???/?????? / ???
+feoficee/Italiano: DEBUG: Unknown section: Sostantivo Femminile Plurale at ['feoficee']
+Dé/Irlandese/Pronuncia: DEBUG: Unknown section: Espressione derivata at ['Dé']
+completamento: DEBUG: ITALIC not properly closed on the same line at ['completamento'] parsing completamento/???/?????? / ???
+autogoal: DEBUG: ITALIC not properly closed on the same line at ['autogoal'] parsing autogoal/???/?????? / ???
+onice: DEBUG: ITALIC not properly closed on the same line at ['onice'] parsing onice/???/?????? / ???
+buriner: DEBUG: ITALIC not properly closed on the same line at ['buriner'] parsing buriner/???/?????? / ???
+Crocodilidi: DEBUG: ITALIC not properly closed on the same line at ['Crocodilidi'] parsing Crocodilidi/???/?????? / ???
+dalmatico: DEBUG: ITALIC not properly closed on the same line at ['dalmatico'] parsing dalmatico/???/?????? / ???
+reclutare: DEBUG: ITALIC not properly closed on the same line at ['reclutare'] parsing reclutare/???/?????? / ???
+Urodeli: DEBUG: ITALIC not properly closed on the same line at ['Urodeli'] parsing Urodeli/???/?????? / ???
+marà: DEBUG: ITALIC not properly closed on the same line at ['marà'] parsing marà/???/?????? / ???
+conuro: DEBUG: ITALIC not properly closed on the same line at ['conuro'] parsing conuro/???/?????? / ???
+pasdaran: DEBUG: ITALIC not properly closed on the same line at ['pasdaran'] parsing pasdaran/???/?????? / ???
+2026-10-01 22:27:54,969 INFO:   ... 391801/760538 pages (51.5%) processed, 00:01:44 remaining
+overschaduwen/Olandese/Pronuncia: DEBUG: Unknown section: Coniugazione at ['overschaduwen']
+stagirita: DEBUG: ITALIC not properly closed on the same line at ['stagirita'] parsing stagirita/???/?????? / ???
+conmemoro: DEBUG: ITALIC not properly closed on the same line at ['conmemoro'] parsing conmemoro/???/?????? / ???
+2026-10-01 22:27:57,250 INFO:   ... 393436/760538 pages (51.7%) processed, 00:01:45 remaining
+brillant: DEBUG: ITALIC not properly closed on the same line at ['brillant'] parsing brillant/???/?????? / ???
+2026-10-01 22:27:58,251 INFO:   ... 403535/760538 pages (53.1%) processed, 00:01:41 remaining
+2026-10-01 22:27:59,251 INFO:   ... 418055/760538 pages (55.0%) processed, 00:01:34 remaining
+2026-10-01 22:28:00,252 INFO:   ... 429068/760538 pages (56.4%) processed, 00:01:29 remaining
+2026-10-01 22:28:02,176 INFO:   ... 430201/760538 pages (56.6%) processed, 00:01:30 remaining
+bellunese: DEBUG: BOLD not properly closed on the same line at ['bellunese'] parsing bellunese/???/??? ???
+2026-10-01 22:28:03,176 INFO:   ... 436926/760538 pages (57.4%) processed, 00:01:28 remaining
+2026-10-01 22:28:04,177 INFO:   ... 446570/760538 pages (58.7%) processed, 00:01:24 remaining
+amerindo: DEBUG: ITALIC not properly closed on the same line at ['amerindo'] parsing amerindo/???/?????? / ???
+2026-10-01 22:28:05,177 INFO:   ... 456001/760538 pages (60.0%) processed, 00:01:20 remaining
+Afanitteri: DEBUG: ITALIC not properly closed on the same line at ['Afanitteri'] parsing Afanitteri/???/?????? / ???
+Mallofagi: DEBUG: ITALIC not properly closed on the same line at ['Mallofagi'] parsing Mallofagi/???/?????? / ???
+sifone: DEBUG: ITALIC not properly closed on the same line at ['sifone'] parsing sifone/???/?????? / ???
+2026-10-01 22:28:06,177 INFO:   ... 456179/760538 pages (60.0%) processed, 00:01:21 remaining
+chilenisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['chilenisch']
+bolivianisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['bolivianisch']
+吾/Cinese/Etimologia / Derivazione: DEBUG: Unknown section: Forma antica at ['吾']
+吾/Cinese/Termini correlati: DEBUG: Unknown section: Pronomi Personali Cinesi: at ['吾']
+2026-10-01 22:28:07,177 INFO:   ... 465913/760538 pages (61.3%) processed, 00:01:17 remaining
+吾/Giapponese/Pronome possessivo: DEBUG: Unknown section: Composti at ['吾']
+arabisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['arabisch']
+Dermatteri: DEBUG: ITALIC not properly closed on the same line at ['Dermatteri'] parsing Dermatteri/???/?????? / ???
+-tzintli: DEBUG: html tag </categorytree> not allowed in WikiText at ['-tzintli'] parsing -tzintli/???/??? ??? ???
+-tzintli: DEBUG: no corresponding start tag found for </categorytree> at ['-tzintli'] parsing -tzintli/???/??? ??? ???
+ゑ/Giapponese: DEBUG: Unknown section: Hiragana at ['ゑ']
+ゑ/Giapponese: DEBUG: Unknown section: Kanji che usavano ゑ (Kyūjitai e Shinjitai) at ['ゑ']
+gant/Bretone/Varianti: DEBUG: Unknown section: Declinazioni at ['gant']
+cihuatl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['cihuatl']
+nochtli/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['nochtli']
+cuaitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Declinazione at ['cuaitl']
+cuaitl/Nahuatl classico/Sostantivo: DEBUG: Unknown section: Ulteriori informazioni at ['cuaitl']
+-isto: DEBUG: ITALIC not properly closed on the same line at ['-isto'] parsing -isto/???/?????? / ???
+ukrainisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['ukrainisch']
+crisantemo: DEBUG: ITALIC not properly closed on the same line at ['crisantemo'] parsing crisantemo/???/?????? / ???
+öffentlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['öffentlich']
+finnisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['finnisch']
+2026-10-01 22:28:10,088 INFO:   ... 474401/760538 pages (62.4%) processed, 00:01:16 remaining
+ecuadorianisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['ecuadorianisch']
+kolumbianisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['kolumbianisch']
+ヲ/Giapponese: DEBUG: Unknown section: Carattere Katakana at ['ヲ']
+ヲ/Giapponese/Etimologia / Derivazione: DEBUG: Unknown section: Scrittura at ['ヲ']
+astronomisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['astronomisch']
+われ/Giapponese/Etimologia / Derivazione: DEBUG: Unknown section: Kanji associati at ['われ']
+lehren/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['lehren']
+eresiarca: DEBUG: ITALIC not properly closed on the same line at ['eresiarca'] parsing eresiarca/???/?????? / ???
+anedda/Creolo giamaicano/Aggettivo: DEBUG: Unknown section: Esempio at ['anedda']
+heilig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['heilig']
+argentinisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['argentinisch']
+sinostosi: DEBUG: ITALIC not properly closed on the same line at ['sinostosi'] parsing sinostosi/???/?????? / ???
+sopra-: DEBUG: ITALIC not properly closed on the same line at ['sopra-'] parsing sopra-/???/?????? / ???
+verwaltungstechnisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['verwaltungstechnisch']
+漢/Cinese/Etimologia / Derivazione: DEBUG: Unknown section: Forme storiche at ['漢']
+ヰ/Giapponese: DEBUG: Unknown section: Carattere Katakana at ['ヰ']
+ヰ/Giapponese/Etimologia / Derivazione: DEBUG: Unknown section: Scrittura at ['ヰ']
+を/Giapponese/Etimologia / Derivazione: DEBUG: Unknown section: Scrittura at ['を']
+mawga/Creolo giamaicano/Aggettivo: DEBUG: Unknown section: Esempio at ['mawga']
+jungfräulich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['jungfräulich']
+ろ/Giapponese: DEBUG: Unknown section: Hiragana at ['ろ']
+gesund/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['gesund']
+ヱ/Giapponese: DEBUG: Unknown section: Katakana at ['ヱ']
+Gruiformi: DEBUG: ITALIC not properly closed on the same line at ['Gruiformi'] parsing Gruiformi/???/?????? / ???
+をとこ/Giapponese: DEBUG: Unknown section: Scrittura Hiragana at ['をとこ']
+forty leg/Creolo giamaicano/Sostantivo: DEBUG: Unknown section: Esempio at ['forty leg']
+ゐ/Giapponese/Etimologia / Derivazione: DEBUG: Unknown section: Scrittura at ['ゐ']
+fatigo: DEBUG: ITALIC not properly closed on the same line at ['fatigo'] parsing fatigo/???/?????? / ???
+Alche: DEBUG: ITALIC not properly closed on the same line at ['Alche'] parsing Alche/???/?????? / ???
+satrapo: DEBUG: ITALIC not properly closed on the same line at ['satrapo'] parsing satrapo/???/?????? / ???
+krank/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['krank']
+oppressivo: DEBUG: ITALIC not properly closed on the same line at ['oppressivo'] parsing oppressivo/???/?????? / ???
+ferrum/Latino: DEBUG: Unknown section: Declinazione at ['ferrum']
+ferrum/Latino/Parole derivate: DEBUG: Unknown section: Discendenti at ['ferrum']
+rechtlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['rechtlich']
+treiben/Tedesco/Pronuncia: DEBUG: Unknown section: Declinazione at ['treiben']
+war-du/Bretone/Sinonimi: DEBUG: Unknown section: Declinazioni at ['war-du']
+Tinamidi: DEBUG: ITALIC not properly closed on the same line at ['Tinamidi'] parsing Tinamidi/???/?????? / ???
+fenneh: DEBUG: ITALIC not properly closed on the same line at ['fenneh'] parsing fenneh/???/?????? / ???
+fenneh/Creolo giamaicano/Verbo: DEBUG: Unknown section: Esempio at ['fenneh']
+Silberling: DEBUG: ITALIC not properly closed on the same line at ['Silberling'] parsing Silberling/???/?????? / ???
+Freundschaft: DEBUG: ITALIC not properly closed on the same line at ['Freundschaft'] parsing Freundschaft/???/?????? / ???
+Säugling: DEBUG: ITALIC not properly closed on the same line at ['Säugling'] parsing Säugling/???/?????? / ???
+2026-10-01 22:28:14,529 INFO:   ... 476601/760538 pages (62.7%) processed, 00:01:17 remaining
+Warzenschwein: DEBUG: ITALIC not properly closed on the same line at ['Warzenschwein'] parsing Warzenschwein/???/?????? / ???
+klingeln/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['klingeln']
+neživotný/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['neživotný']
+pflaumen/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['pflaumen']
+flagellum/Latino/Sostantivo: DEBUG: Unknown section: Etimologia at ['flagellum']
+yardie/Creolo giamaicano/Aggettivo: DEBUG: Unknown section: Esempio at ['yardie']
+süß/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['süß']
+sozialwissenschaftlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['sozialwissenschaftlich']
+numida: DEBUG: ITALIC not properly closed on the same line at ['numida'] parsing numida/???/?????? / ???
+arcibisnonno: DEBUG: ITALIC not properly closed on the same line at ['arcibisnonno'] parsing arcibisnonno/???/?????? / ???
+dösen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['dösen']
+werken/Olandese/Pronuncia: DEBUG: Unknown section: Coniugazione at ['werken']
+fiebern/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['fiebern']
+Massenzahl: DEBUG: ITALIC not properly closed on the same line at ['Massenzahl'] parsing Massenzahl/???/?????? / ???
+heben/Tedesco/Verbo: DEBUG: Unknown section: Coniugazione at ['heben']
+2026-10-01 22:28:16,546 INFO:   ... 479237/760538 pages (63.0%) processed, 00:01:17 remaining
+taufen/Tedesco/Termini correlati: DEBUG: Unknown section: Coniugazione at ['taufen']
+Patwa/Creolo giamaicano/Nome proprio: DEBUG: Unknown section: Esempio at ['Patwa']
+felon: DEBUG: no corresponding start tag found for </sup> at ['felon'] parsing felon/???/??????
+felon: DEBUG: no corresponding start tag found for </sup> at ['felon'] parsing felon/???/??????
+felon: DEBUG: HTML tag <sub> not properly closed at ['felon'] parsing felon/???/??????
+started on line 8, detected on line 13
+felon: DEBUG: HTML tag <sub> not properly closed at ['felon'] parsing felon/???/??????
+started on line 5, detected on line 13
+prekeh/Creolo giamaicano/Sostantivo: DEBUG: Unknown section: Esempio at ['prekeh']
+reich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['reich']
+Betttuch: DEBUG: ITALIC not properly closed on the same line at ['Betttuch'] parsing Betttuch/???/?????? / ???
+fordern/Tedesco/Pronuncia: DEBUG: Unknown section: Coniugazione at ['fordern']
+ausschalten/Tedesco/Contrari: DEBUG: Unknown section: Coniugazione at ['ausschalten']
+ausladen/Tedesco/Contrari: DEBUG: Unknown section: Coniugazione at ['ausladen']
+ähnlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['ähnlich']
+mauern/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['mauern']
+Cicero/Latino: DEBUG: Unknown section: Declinazione at ['Cicero']
+Romae/Latino: DEBUG: Unknown section: Declinazione at ['Romae']
+Romam/Latino: DEBUG: Unknown section: Declinazione at ['Romam']
+männlich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['männlich']
+Guttera: DEBUG: ITALIC not properly closed on the same line at ['Guttera'] parsing Guttera/???/?????? / ???
+weiblich/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['weiblich']
+armselig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['armselig']
+2026-10-01 22:28:17,546 INFO:   ... 488698/760538 pages (64.3%) processed, 00:01:14 remaining
+düngen/Tedesco/Termini correlati: DEBUG: Unknown section: Coniugazione at ['düngen']
+warmherzig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['warmherzig']
+Ericacee: DEBUG: ITALIC not properly closed on the same line at ['Ericacee'] parsing Ericacee/???/?????? / ???
+venefico: DEBUG: ITALIC not properly closed on the same line at ['venefico'] parsing venefico/???/?????? / ???
+besinnungslos/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['besinnungslos']
+Schönfärber: DEBUG: ITALIC not properly closed on the same line at ['Schönfärber'] parsing Schönfärber/???/?????? / ???
+brüllen/Tedesco/Contrari: DEBUG: Unknown section: Coniugazione at ['brüllen']
+peligno: DEBUG: ITALIC not properly closed on the same line at ['peligno'] parsing peligno/???/?????? / ???
+bohren/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['bohren']
+pauliciani: DEBUG: ITALIC not properly closed on the same line at ['pauliciani'] parsing pauliciani/???/?????? / ???
+Raknarök: DEBUG: ITALIC not properly closed on the same line at ['Raknarök'] parsing Raknarök/???/?????? / ???
+Striptease: DEBUG: ITALIC not properly closed on the same line at ['Striptease'] parsing Striptease/???/?????? / ???
+brauen/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['brauen']
+sobrietate/Vedi anche/Termini correlati: DEBUG: Unknown section: Referenze at ['sobrietate']
+chitinoso: DEBUG: BOLD not properly closed on the same line at ['chitinoso'] parsing chitinoso/???/??????
+schick/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['schick']
+2026-10-01 22:28:18,555 INFO:   ... 497201/760538 pages (65.4%) processed, 00:01:11 remaining
+irascibilità: DEBUG: ITALIC not properly closed on the same line at ['irascibilità'] parsing irascibilità/???/?????? / ???
+tot/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['tot']
+biber/Vedi anche/Termini correlati: DEBUG: Unknown section: Referenze at ['biber']
+bévere/Napoletano/Verbo: DEBUG: Unknown section: Altre varianti tra i dialetti napoletani at ['bévere']
+Vandalismus: DEBUG: ITALIC not properly closed on the same line at ['Vandalismus'] parsing Vandalismus/???/?????? / ???
+diatomea: DEBUG: ITALIC not properly closed on the same line at ['diatomea'] parsing diatomea/???/?????? / ???
+lisergico: DEBUG: ITALIC not properly closed on the same line at ['lisergico'] parsing lisergico/???/?????? / ???
+synchron/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['synchron']
+pizia: DEBUG: ITALIC not properly closed on the same line at ['pizia'] parsing pizia/???/?????? / ???
+Pteridofite: DEBUG: ITALIC not properly closed on the same line at ['Pteridofite'] parsing Pteridofite/???/?????? / ???
+Gegenteil: DEBUG: ITALIC not properly closed on the same line at ['Gegenteil'] parsing Gegenteil/???/?????? / ???
+etimologizzata/Italiano/Traduzione: DEBUG: Unknown section: Referenze at ['etimologizzata']
+essbar/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['essbar']
+etimologizzati/Italiano/Traduzione: DEBUG: Unknown section: Referenze at ['etimologizzati']
+Tubuliflore: DEBUG: ITALIC not properly closed on the same line at ['Tubuliflore'] parsing Tubuliflore/???/?????? / ???
+occasus/Latino/Pronuncia: DEBUG: Unknown section: Parole discendenti (medesima etimologia) at ['occasus']
+manutentore tuttofare/Italiano: DEBUG: Unknown section: Etimologia at ['manutentore tuttofare']
+manutentore tuttofare/Italiano/Sostantivo: DEBUG: Unknown section: Esempi d'uso at ['manutentore tuttofare']
+manutentore tuttofare/Italiano/Termini correlati: DEBUG: Unknown section: Traduzioni at ['manutentore tuttofare']
+manutentore tuttofare/Italiano/Termini correlati: DEBUG: Unknown section: Voci correlate at ['manutentore tuttofare']
+Vergiftung: DEBUG: ITALIC not properly closed on the same line at ['Vergiftung'] parsing Vergiftung/???/?????? / ???
+blutrot: DEBUG: ITALIC not properly closed on the same line at ['blutrot'] parsing blutrot/???/?????? / ???
+blutrot/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['blutrot']
+hellblau/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['hellblau']
+manicare: DEBUG: ITALIC not properly closed on the same line at ['manicare'] parsing manicare/???/?????? / ???
+kakifarben/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['kakifarben']
+wagen/Tedesco/Pronuncia: DEBUG: Unknown section: Coniugazione at ['wagen']
+reduzieren/Tedesco/Parole derivate: DEBUG: Unknown section: Coniugazione at ['reduzieren']
+buttern/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['buttern']
+bardatura: DEBUG: ITALIC not properly closed on the same line at ['bardatura'] parsing bardatura/???/??????
+modrý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['modrý']
+purpurový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['purpurový']
+enoteismo: DEBUG: ITALIC not properly closed on the same line at ['enoteismo'] parsing enoteismo/???/?????? / ???
+Aderlass: DEBUG: ITALIC not properly closed on the same line at ['Aderlass'] parsing Aderlass/???/?????? / ???
+oranžový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['oranžový']
+hnědý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['hnědý']
+congruus/Latino: DEBUG: Unknown section: Etymologia at ['congruus']
+congruus/Latino/Termini correlati: DEBUG: Unknown section: Parole discendenti at ['congruus']
+dedication: DEBUG: ITALIC not properly closed on the same line at ['dedication'] parsing dedication/???/?????? / ???
+cabreo: DEBUG: ITALIC not properly closed on the same line at ['cabreo'] parsing cabreo/???/?????? / ???
+Eselsbrücke: DEBUG: ITALIC not properly closed on the same line at ['Eselsbrücke'] parsing Eselsbrücke/???/?????? / ???
+clangore: DEBUG: ITALIC not properly closed on the same line at ['clangore'] parsing clangore/???/?????? / ???
+lästig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['lästig']
+Primulacee: DEBUG: ITALIC not properly closed on the same line at ['Primulacee'] parsing Primulacee/???/?????? / ???
+grillen/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Coniugazione at ['grillen']
+Schwächling: DEBUG: ITALIC not properly closed on the same line at ['Schwächling'] parsing Schwächling/???/?????? / ???
+schwach/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['schwach']
+Sweatshirt: DEBUG: ITALIC not properly closed on the same line at ['Sweatshirt'] parsing Sweatshirt/???/?????? / ???
+salzig/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['salzig']
+žlutý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['žlutý']
+2026-10-01 22:28:20,879 INFO:   ... 504701/760538 pages (66.4%) processed, 00:01:09 remaining
+Mixer: DEBUG: ITALIC not properly closed on the same line at ['Mixer'] parsing Mixer/???/?????? / ???
+gagà/Italiano/Traduzione: DEBUG: Unknown section: Fonti at ['gagà']
+dieffenbachia: DEBUG: ITALIC not properly closed on the same line at ['dieffenbachia'] parsing dieffenbachia/???/?????? / ???
+vicus/derivati in altre lingue e nei dialetti italiani: DEBUG: Unknown section: derivati in latino at ['vicus']
+Hellseher: DEBUG: ITALIC not properly closed on the same line at ['Hellseher'] parsing Hellseher/???/?????? / ???
+horký/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['horký']
+horčejší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['horčejší']
+nejhorčejší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejhorčejší']
+nackt/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['nackt']
+barsch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['barsch']
+římský/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['římský']
+slapen/Olandese/Verbo: DEBUG: Unknown section: Coniugazione at ['slapen']
+šedý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['šedý']
+2026-10-01 22:28:21,959 INFO:   ... 508101/760538 pages (66.8%) processed, 00:01:08 remaining
+hameren/Olandese/Termini correlati: DEBUG: Unknown section: Coniugazione at ['hameren']
+fialový/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['fialový']
+steken/Olandese/Verbo: DEBUG: Unknown section: Coniugazione at ['steken']
+okrový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['okrový']
+růžový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['růžový']
+riconciliare: DEBUG: ITALIC not properly closed on the same line at ['riconciliare'] parsing riconciliare/???/?????? / ???
+béžový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['béžový']
+stříbrný/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['stříbrný']
+olivový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['olivový']
+cardiosclerosi: DEBUG: BOLD not properly closed on the same line at ['cardiosclerosi'] parsing cardiosclerosi/???/??? ???
+Aconito: DEBUG: BOLD not properly closed on the same line at ['Aconito'] parsing Aconito/???/??? ???
+align: DEBUG: ITALIC not properly closed on the same line at ['align'] parsing align/???/?????? / ???
+dōnum/Latino/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['dōnum']
+šarlatový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['šarlatový']
+costume da sirena/Italiano/Traduzione: DEBUG: Unknown section: Annotazioni at ['costume da sirena']
+costume da sirena/Italiano/Traduzione: DEBUG: Unknown section: Fonti at ['costume da sirena']
+korálový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['korálový']
+adone: DEBUG: ITALIC not properly closed on the same line at ['adone'] parsing adone/???/?????? / ???
+lepší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['lepší']
+nejlepší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejlepší']
+pomalý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['pomalý']
+garguglia: DEBUG: ITALIC not properly closed on the same line at ['garguglia'] parsing garguglia/???/?????? / ???
+2026-10-01 22:28:23,789 INFO:   ... 512561/760538 pages (67.4%) processed, 00:01:07 remaining
+Ermäßigung: DEBUG: ITALIC not properly closed on the same line at ['Ermäßigung'] parsing Ermäßigung/???/?????? / ???
+Wärmepumpe: DEBUG: ITALIC not properly closed on the same line at ['Wärmepumpe'] parsing Wärmepumpe/???/?????? / ???
+Biowaffe: DEBUG: ITALIC not properly closed on the same line at ['Biowaffe'] parsing Biowaffe/???/?????? / ???
+verfassungswidrig/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['verfassungswidrig']
+sprotuniane/Italiano: DEBUG: Unknown section: Definizione at ['sprotuniane']
+sprotuniane/Italiano/Pronuncia: DEBUG: Unknown section: Etimologia at ['sprotuniane']
+sprotuniane/Italiano/Pronuncia: DEBUG: Unknown section: Traduzioni at ['sprotuniane']
+sprotuniane/Italiano/Sinonimi: DEBUG: Unknown section: Note at ['sprotuniane']
+mít pravdu/Ceco/Locuzione verbale: DEBUG: HTML tag <div> not properly closed at ['mít pravdu'] parsing mít pravdu
+started on line 1, detected on line 88
+mít/Ceco/Verbo: DEBUG: HTML tag <div> not properly closed at ['mít'] parsing mít
+started on line 1, detected on line 88
+plance/Italiano/Traduzione: DEBUG: Unknown section: * at ['plance']
+dlouhý/Ceco/Proverbi e modi di dire: DEBUG: Unknown section: Declinazione at ['dlouhý']
+krátký/Ceco/Proverbi e modi di dire: DEBUG: Unknown section: Declinazione at ['krátký']
+2026-10-01 22:28:24,789 INFO:   ... 524911/760538 pages (69.0%) processed, 00:01:03 remaining
+falsch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['falsch']
+dittongare/Italiano: DEBUG: Unknown section: Etimologia at ['dittongare']
+dittongare/Italiano/Verbo: DEBUG: Unknown section: Coniugazione at ['dittongare']
+dittongare/Italiano/Verbo: DEBUG: Unknown section: Termini derivati at ['dittongare']
+dittongare/Italiano/Verbo: DEBUG: Unknown section: Anagrammi at ['dittongare']
+2026-10-01 22:28:25,789 INFO:   ... 534091/760538 pages (70.2%) processed, 00:01:00 remaining
+rychlý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['rychlý']
+španělský/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['španělský']
+2026-10-01 22:28:26,789 INFO:   ... 541818/760538 pages (71.2%) processed, 00:00:57 remaining
+2026-10-01 22:28:27,791 INFO:   ... 549625/760538 pages (72.3%) processed, 00:00:55 remaining
+2026-10-01 22:28:29,220 INFO:   ... 550116/760538 pages (72.3%) processed, 00:00:55 remaining
+2026-10-01 22:28:30,220 INFO:   ... 559876/760538 pages (73.6%) processed, 00:00:52 remaining
+2026-10-01 22:28:31,220 INFO:   ... 570510/760538 pages (75.0%) processed, 00:00:49 remaining
+Serendipität: DEBUG: ITALIC not properly closed on the same line at ['Serendipität'] parsing Serendipität/???/?????? / ???
+2026-10-01 22:28:58,790 INFO:   ... 574401/760538 pages (75.5%) processed, 00:00:56 remaining
+2026-10-01 22:28:59,790 INFO:   ... 583316/760538 pages (76.7%) processed, 00:00:53 remaining
+2026-10-01 22:29:00,793 INFO:   ... 597956/760538 pages (78.6%) processed, 00:00:48 remaining
+2026-10-01 22:29:01,793 INFO:   ... 608599/760538 pages (80.0%) processed, 00:00:44 remaining
+2026-10-01 22:29:02,793 INFO:   ... 620086/760538 pages (81.5%) processed, 00:00:40 remaining
+chudý/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['chudý']
+bohatý/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['bohatý']
+erratisch/Tedesco/Aggettivo: DEBUG: Unknown section: Declinazione at ['erratisch']
+2026-10-01 22:29:03,793 INFO:   ... 627574/760538 pages (82.5%) processed, 00:00:38 remaining
+širší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['širší']
+pomalejší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['pomalejší']
+laciný/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['laciný']
+lacinější/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['lacinější']
+nejpomalejší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejpomalejší']
+nejlevnější/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejlevnější']
+nejtlustší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejtlustší']
+dreiwöchig/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['dreiwöchig']
+کردن: DEBUG: HTML tag <div> not properly closed at ['کردن'] parsing کردن/???/?????? / ???
+started on line 23, detected on line 167
+داشتن: DEBUG: HTML tag <div> not properly closed at ['داشتن'] parsing داشتن/???/?????? / ???
+started on line 21, detected on line 138
+Hundewetter: DEBUG: ITALIC not properly closed on the same line at ['Hundewetter'] parsing Hundewetter/???/?????? / ???
+psí/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['psí']
+Wurstmacher: DEBUG: ITALIC not properly closed on the same line at ['Wurstmacher'] parsing Wurstmacher/???/?????? / ???
+hubený/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['hubený']
+unregelmäßig/Tedesco/Contrari: DEBUG: Unknown section: Declinazione at ['unregelmäßig']
+nejhubenější/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejhubenější']
+gastronomisch/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['gastronomisch']
+hubenější/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['hubenější']
+německý/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['německý']
+tvrdší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['tvrdší']
+nejtvrdší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejtvrdší']
+přátelský/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['přátelský']
+Steebock: DEBUG: ITALIC not properly closed on the same line at ['Steebock'] parsing Steebock/???/?????? / ???
+Waassermann: DEBUG: ITALIC not properly closed on the same line at ['Waassermann'] parsing Waassermann/???/?????? / ???
+nejlacinější/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejlacinější']
+chudší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['chudší']
+nejchudší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejchudší']
+Naturalien: DEBUG: ITALIC not properly closed on the same line at ['Naturalien'] parsing Naturalien/???/?????? / ???
+dražší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['dražší']
+Stärenzeechen: DEBUG: ITALIC not properly closed on the same line at ['Stärenzeechen'] parsing Stärenzeechen/???/?????? / ???
+nejdražší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejdražší']
+měkký/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['měkký']
+měkčí/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['měkčí']
+nejměkčí/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejměkčí']
+tlustý/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['tlustý']
+2026-10-01 22:29:06,657 INFO:   ... 634338/760538 pages (83.4%) processed, 00:00:36 remaining
+široký/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['široký']
+úzký/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['úzký']
+nejširší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejširší']
+nejužší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['nejužší']
+bytový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['bytový']
+spinal/Tedesco/Pronuncia: DEBUG: Unknown section: Declinazione at ['spinal']
+český/Ceco/Parole derivate: DEBUG: Unknown section: Declinazione at ['český']
+elettrolito: DEBUG: BOLD not properly closed on the same line at ['elettrolito'] parsing elettrolito/???/??? ???
+Eleuterotanatos/Eleuterotanatos: DEBUG: Unknown section: Italiano at ['Eleuterotanatos']
+Eleuterotanatos/Eleuterotanatos/Sostantivo: DEBUG: Unknown section: Etimologia at ['Eleuterotanatos']
+Eleuterotanatos/Eleuterotanatos/Contrari: DEBUG: Unknown section: Esempi at ['Eleuterotanatos']
+Eleuterotanatos/Eleuterotanatos/Contrari: DEBUG: Unknown section: Traduzioni at ['Eleuterotanatos']
+karmínový/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['karmínový']
+světlý/Ceco/Termini correlati: DEBUG: Unknown section: Declinazione at ['světlý']
+inhärent/Tedesco/Etimologia / Derivazione: DEBUG: Unknown section: Declinazione at ['inhärent']
+drahý/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['drahý']
+2026-10-01 22:29:07,657 INFO:   ... 665387/760538 pages (87.5%) processed, 00:00:26 remaining
+levný/Ceco/Contrari: DEBUG: Unknown section: Declinazione at ['levný']
+levnější/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['levnější']
+tlustší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['tlustší']
+užší/Ceco/Pronuncia: DEBUG: Unknown section: Declinazione at ['užší']
+factual: DEBUG: ITALIC not properly closed on the same line at ['factual'] parsing factual/???/?????? / ???
+factual: DEBUG: ITALIC not properly closed on the same line at ['factual'] parsing factual/???/?????? / ???
+ponder: DEBUG: ITALIC not properly closed on the same line at ['ponder'] parsing ponder/???/?????? / ???
+2026-10-01 22:29:08,657 INFO:   ... 705033/760538 pages (92.7%) processed, 00:00:14 remaining
+2026-10-01 22:29:09,657 INFO:   ... 738498/760538 pages (97.1%) processed, 00:00:05 remaining
+2026-10-01 22:29:10,946 INFO: Reprocessing wiktionary complete
+2026-10-01 22:29:11,332 INFO: Extracting pages from namespace Module to tar file /home/ubuntu/temp-wiktionary/editions/it/modules.tar
+2026-10-01 22:29:11,520 INFO: Extracting pages from namespace Template to tar file /home/ubuntu/temp-wiktionary/editions/it/templates.tar
+MINOR it WIKTWORDS ENDED: Thu Oct  1 10:29:12 PM EEST 2026
